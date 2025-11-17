@@ -1,0 +1,370 @@
+{
+  "pattern_type": "base_name",
+  "pattern_value": "-black knight-",
+  "count": 13,
+  "quality_score": 18.0,
+  "number_patterns": {
+    "pattern": "sequential",
+    "numbers": [
+      3,
+      4,
+      5,
+      6,
+      8,
+      9,
+      11,
+      13,
+      16,
+      19,
+      26,
+      32,
+      35
+    ],
+    "min_number": 3,
+    "max_number": 35,
+    "number_range": 32,
+    "consistent_digits": false,
+    "common_digit_count": "mixed",
+    "count": 13
+  },
+  "avg_suspicion": 3.0,
+  "usernames": [
+    "-Black Knight-35",
+    "-Black Knight-26",
+    "-Black Knight-19",
+    "-Black Knight-32",
+    "-Black Knight-11",
+    "-Black Knight-13",
+    "-Black Knight-16",
+    "-Black Knight-5",
+    "-Black Knight-9",
+    "-Black Knight-3"
+  ],
+  "accounts": [
+    {
+      "user_id": "667512495",
+      "username": "-Black Knight-35",
+      "user_data": {
+        "latest": {
+          "rank": 9689,
+          "score": 561520,
+          "username": "-Black Knight-35",
+          "level": 0,
+          "id": 667512495,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/5b/d2/5bd27286-73c9-4baa-b59c-467d5dd4b531_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/5b/d2/5bd27286-73c9-4baa-b59c-467d5dd4b531_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/5b/d2/5bd27286-73c9-4baa-b59c-467d5dd4b531_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/5b/d2/5bd27286-73c9-4baa-b59c-467d5dd4b531_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          25
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667512495/"
+    },
+    {
+      "user_id": "667505874",
+      "username": "-Black Knight-26",
+      "user_data": {
+        "latest": {
+          "rank": 10903,
+          "score": 508260,
+          "username": "-Black Knight-26",
+          "level": 0,
+          "id": 667505874,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e1/59/e1598fd1-f934-4d43-8b97-374ccefcda77_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e1/59/e1598fd1-f934-4d43-8b97-374ccefcda77_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e1/59/e1598fd1-f934-4d43-8b97-374ccefcda77_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e1/59/e1598fd1-f934-4d43-8b97-374ccefcda77_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          28
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667505874/"
+    },
+    {
+      "user_id": "667503569",
+      "username": "-Black Knight-19",
+      "user_data": {
+        "latest": {
+          "rank": 12474,
+          "score": 453606,
+          "username": "-Black Knight-19",
+          "level": 0,
+          "id": 667503569,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/8b/98/8b98800f-b5ca-42df-8f3d-87cb4c7b3771_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/8b/98/8b98800f-b5ca-42df-8f3d-87cb4c7b3771_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/8b/98/8b98800f-b5ca-42df-8f3d-87cb4c7b3771_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/8b/98/8b98800f-b5ca-42df-8f3d-87cb4c7b3771_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          32
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667503569/"
+    },
+    {
+      "user_id": "667512420",
+      "username": "-Black Knight-32",
+      "user_data": {
+        "latest": {
+          "rank": 13612,
+          "score": 425620,
+          "username": "-Black Knight-32",
+          "level": 0,
+          "id": 667512420,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/5b/d2/5bd27286-73c9-4baa-b59c-467d5dd4b531_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/5b/d2/5bd27286-73c9-4baa-b59c-467d5dd4b531_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/5b/d2/5bd27286-73c9-4baa-b59c-467d5dd4b531_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/5b/d2/5bd27286-73c9-4baa-b59c-467d5dd4b531_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          35
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667512420/"
+    },
+    {
+      "user_id": "667485198",
+      "username": "-Black Knight-11",
+      "user_data": {
+        "latest": {
+          "rank": 17289,
+          "score": 346405,
+          "username": "-Black Knight-11",
+          "level": 0,
+          "id": 667485198,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          44
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667485198/"
+    },
+    {
+      "user_id": "667482025",
+      "username": "-Black Knight-13",
+      "user_data": {
+        "latest": {
+          "rank": 25619,
+          "score": 255705,
+          "username": "-Black Knight-13",
+          "level": 0,
+          "id": 667482025,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/5d/3a/5d3ac244-64ed-48b6-bcd2-dea58fa80a9a_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/5d/3a/5d3ac244-64ed-48b6-bcd2-dea58fa80a9a_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/5d/3a/5d3ac244-64ed-48b6-bcd2-dea58fa80a9a_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/5d/3a/5d3ac244-64ed-48b6-bcd2-dea58fa80a9a_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          65
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667482025/"
+    },
+    {
+      "user_id": "667766125",
+      "username": "-Black Knight-16",
+      "user_data": {
+        "latest": {
+          "rank": 38997,
+          "score": 185340,
+          "username": "-Black Knight-16",
+          "level": 0,
+          "id": 667766125,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/f4/11/f411f088-5557-42a3-9009-48ed6f32a629_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/f4/11/f411f088-5557-42a3-9009-48ed6f32a629_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/f4/11/f411f088-5557-42a3-9009-48ed6f32a629_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/f4/11/f411f088-5557-42a3-9009-48ed6f32a629_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          98
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667766125/"
+    },
+    {
+      "user_id": "667485208",
+      "username": "-Black Knight-5",
+      "user_data": {
+        "latest": {
+          "rank": 8603,
+          "score": 626562,
+          "username": "-Black Knight-5",
+          "level": 0,
+          "id": 667485208,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/71/15/7115d164-9f44-4e5d-8687-206c16e32c63_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/71/15/7115d164-9f44-4e5d-8687-206c16e32c63_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/71/15/7115d164-9f44-4e5d-8687-206c16e32c63_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/71/15/7115d164-9f44-4e5d-8687-206c16e32c63_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          22
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667485208/"
+    },
+    {
+      "user_id": "667485201",
+      "username": "-Black Knight-9",
+      "user_data": {
+        "latest": {
+          "rank": 9466,
+          "score": 574710,
+          "username": "-Black Knight-9",
+          "level": 0,
+          "id": 667485201,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e6/b2/e6b2872d-30ee-49aa-83fb-9bd2427a859d_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e6/b2/e6b2872d-30ee-49aa-83fb-9bd2427a859d_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e6/b2/e6b2872d-30ee-49aa-83fb-9bd2427a859d_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e6/b2/e6b2872d-30ee-49aa-83fb-9bd2427a859d_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          24
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667485201/"
+    },
+    {
+      "user_id": "667485215",
+      "username": "-Black Knight-3",
+      "user_data": {
+        "latest": {
+          "rank": 17371,
+          "score": 345000,
+          "username": "-Black Knight-3",
+          "level": 0,
+          "id": 667485215,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          44
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667485215/"
+    },
+    {
+      "user_id": "667485213",
+      "username": "-Black Knight-4",
+      "user_data": {
+        "latest": {
+          "rank": 17415,
+          "score": 344430,
+          "username": "-Black Knight-4",
+          "level": 0,
+          "id": 667485213,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          44
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667485213/"
+    },
+    {
+      "user_id": "667485203",
+      "username": "-Black Knight-8",
+      "user_data": {
+        "latest": {
+          "rank": 17435,
+          "score": 344230,
+          "username": "-Black Knight-8",
+          "level": 0,
+          "id": 667485203,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/74/57/74570bd7-316e-4b44-9054-244c4f1f9c66_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          44
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667485203/"
+    },
+    {
+      "user_id": "667485210",
+      "username": "-Black Knight-6",
+      "user_data": {
+        "latest": {
+          "rank": 18075,
+          "score": 334795,
+          "username": "-Black Knight-6",
+          "level": 0,
+          "id": 667485210,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          46
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667485210/"
+    }
+  ]
+}
