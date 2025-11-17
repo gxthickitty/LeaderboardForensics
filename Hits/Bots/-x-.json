@@ -1,0 +1,130 @@
+{
+  "pattern_type": "base_name",
+  "pattern_value": "- x - ",
+  "count": 4,
+  "quality_score": 19.0,
+  "number_patterns": {
+    "pattern": "sequential",
+    "numbers": [
+      2,
+      3,
+      6,
+      7
+    ],
+    "min_number": 2,
+    "max_number": 7,
+    "number_range": 5,
+    "consistent_digits": true,
+    "common_digit_count": 1,
+    "count": 4
+  },
+  "avg_suspicion": 3.0,
+  "usernames": [
+    "- X - 7",
+    "- X - 6",
+    "- X - 2",
+    "- X - 3"
+  ],
+  "accounts": [
+    {
+      "user_id": "25395536",
+      "username": "- X - 7",
+      "user_data": {
+        "latest": {
+          "rank": 357056,
+          "score": 24200,
+          "username": "- X - 7",
+          "level": 0,
+          "id": 25395536,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          893
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/25395536/"
+    },
+    {
+      "user_id": "25395253",
+      "username": "- X - 6",
+      "user_data": {
+        "latest": {
+          "rank": 371756,
+          "score": 23200,
+          "username": "- X - 6",
+          "level": 0,
+          "id": 25395253,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          930
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/25395253/"
+    },
+    {
+      "user_id": "25394324",
+      "username": "- X - 2",
+      "user_data": {
+        "latest": {
+          "rank": 382380,
+          "score": 22510,
+          "username": "- X - 2",
+          "level": 0,
+          "id": 25394324,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          956
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/25394324/"
+    },
+    {
+      "user_id": "25394391",
+      "username": "- X - 3",
+      "user_data": {
+        "latest": {
+          "rank": 382525,
+          "score": 22500,
+          "username": "- X - 3",
+          "level": 0,
+          "id": 25394391,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/74/f4/74f4a590-357b-4dd2-aa33-3bea7630bc95_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          957
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/25394391/"
+    }
+  ]
+}
