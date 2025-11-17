@@ -1,0 +1,103 @@
+{
+  "pattern_type": "separated_base",
+  "pattern_value": "lpp",
+  "count": 3,
+  "quality_score": 19.0,
+  "number_patterns": {
+    "pattern": "sequential",
+    "numbers": [
+      1,
+      2,
+      3
+    ],
+    "min_number": 1,
+    "max_number": 3,
+    "number_range": 2,
+    "consistent_digits": true,
+    "common_digit_count": 1,
+    "count": 3
+  },
+  "avg_suspicion": 3.0,
+  "usernames": [
+    "LPP_2",
+    "LPP_1",
+    "LPP_3"
+  ],
+  "accounts": [
+    {
+      "user_id": "667530946",
+      "username": "LPP_2",
+      "user_data": {
+        "latest": {
+          "rank": 1727,
+          "score": 1766484,
+          "username": "LPP_2",
+          "level": 0,
+          "id": 667530946,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/41/5b/415b282b-c2dd-4b6f-b57a-f7caef76fd23_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/41/5b/415b282b-c2dd-4b6f-b57a-f7caef76fd23_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/41/5b/415b282b-c2dd-4b6f-b57a-f7caef76fd23_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/41/5b/415b282b-c2dd-4b6f-b57a-f7caef76fd23_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667530946/"
+    },
+    {
+      "user_id": "667519387",
+      "username": "LPP_1",
+      "user_data": {
+        "latest": {
+          "rank": 3196,
+          "score": 1165320,
+          "username": "LPP_1",
+          "level": 0,
+          "id": 667519387,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          8
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667519387/"
+    },
+    {
+      "user_id": "668970473",
+      "username": "LPP_3",
+      "user_data": {
+        "latest": {
+          "rank": 8801,
+          "score": 613070,
+          "username": "LPP_3",
+          "level": 0,
+          "id": 668970473,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          23
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/668970473/"
+    }
+  ]
+}
