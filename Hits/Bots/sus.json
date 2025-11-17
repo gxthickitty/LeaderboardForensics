@@ -1,0 +1,238 @@
+{
+  "pattern_type": "separated_base",
+  "pattern_value": "sus",
+  "count": 8,
+  "quality_score": 23.0,
+  "number_patterns": {
+    "pattern": "sequential",
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      9
+    ],
+    "min_number": 1,
+    "max_number": 9,
+    "number_range": 8,
+    "consistent_digits": true,
+    "common_digit_count": 1,
+    "count": 8
+  },
+  "avg_suspicion": 3.0,
+  "usernames": [
+    "sus_5",
+    "sus_6",
+    "sus_8",
+    "sus_9",
+    "sus_1",
+    "sus_2",
+    "sus_4",
+    "sus_3"
+  ],
+  "accounts": [
+    {
+      "user_id": "667488444",
+      "username": "sus_5",
+      "user_data": {
+        "latest": {
+          "rank": 6980,
+          "score": 709490,
+          "username": "sus_5",
+          "level": 0,
+          "id": 667488444,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/90/27/9027e812-1f02-481b-b189-a82e2206f778_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/90/27/9027e812-1f02-481b-b189-a82e2206f778_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/90/27/9027e812-1f02-481b-b189-a82e2206f778_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/90/27/9027e812-1f02-481b-b189-a82e2206f778_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          18
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488444/"
+    },
+    {
+      "user_id": "667488445",
+      "username": "sus_6",
+      "user_data": {
+        "latest": {
+          "rank": 7204,
+          "score": 696954,
+          "username": "sus_6",
+          "level": 0,
+          "id": 667488445,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/68/1f/681f05df-f53b-485e-a966-983230884154_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/68/1f/681f05df-f53b-485e-a966-983230884154_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/68/1f/681f05df-f53b-485e-a966-983230884154_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/68/1f/681f05df-f53b-485e-a966-983230884154_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488445/"
+    },
+    {
+      "user_id": "667488448",
+      "username": "sus_8",
+      "user_data": {
+        "latest": {
+          "rank": 7208,
+          "score": 696824,
+          "username": "sus_8",
+          "level": 0,
+          "id": 667488448,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488448/"
+    },
+    {
+      "user_id": "667488452",
+      "username": "sus_9",
+      "user_data": {
+        "latest": {
+          "rank": 7217,
+          "score": 696423,
+          "username": "sus_9",
+          "level": 0,
+          "id": 667488452,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/41/ee/41ee5a3f-b5c0-4743-bbd9-ff889879e732_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/41/ee/41ee5a3f-b5c0-4743-bbd9-ff889879e732_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/41/ee/41ee5a3f-b5c0-4743-bbd9-ff889879e732_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/41/ee/41ee5a3f-b5c0-4743-bbd9-ff889879e732_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488452/"
+    },
+    {
+      "user_id": "667488435",
+      "username": "sus_1",
+      "user_data": {
+        "latest": {
+          "rank": 7449,
+          "score": 683600,
+          "username": "sus_1",
+          "level": 0,
+          "id": 667488435,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/6c/6f/6c6fb9d3-6c66-4b70-ac1b-963281f1414d_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488435/"
+    },
+    {
+      "user_id": "667488438",
+      "username": "sus_2",
+      "user_data": {
+        "latest": {
+          "rank": 7454,
+          "score": 683410,
+          "username": "sus_2",
+          "level": 0,
+          "id": 667488438,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/52/ca/52ca5f1a-4d91-477c-9690-746950afb06c_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/52/ca/52ca5f1a-4d91-477c-9690-746950afb06c_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/52/ca/52ca5f1a-4d91-477c-9690-746950afb06c_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/52/ca/52ca5f1a-4d91-477c-9690-746950afb06c_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488438/"
+    },
+    {
+      "user_id": "667488442",
+      "username": "sus_4",
+      "user_data": {
+        "latest": {
+          "rank": 7466,
+          "score": 682990,
+          "username": "sus_4",
+          "level": 0,
+          "id": 667488442,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/a5/9d/a59d14e1-e2ae-4244-900e-2e853f71135a_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/a5/9d/a59d14e1-e2ae-4244-900e-2e853f71135a_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/a5/9d/a59d14e1-e2ae-4244-900e-2e853f71135a_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/a5/9d/a59d14e1-e2ae-4244-900e-2e853f71135a_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488442/"
+    },
+    {
+      "user_id": "667488441",
+      "username": "sus_3",
+      "user_data": {
+        "latest": {
+          "rank": 7474,
+          "score": 682690,
+          "username": "sus_3",
+          "level": 0,
+          "id": 667488441,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/82/a1/82a11d6a-9520-4257-9401-284cf19d3841_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          19
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667488441/"
+    }
+  ]
+}
