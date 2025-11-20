@@ -16,7 +16,7 @@ ENDPOINT = "api/leaderboard/top/"
 COUNT = 400
 REQUEST_TIMEOUT = 10.0
 SAVE_INTERVAL = 30
-BUCKET_SIZE = 1000
+BUCKET_SIZE = 5000
 
 session = requests.Session()
 retries = Retry(total=5, backoff_factor=0.8, status_forcelist=(429, 500, 502, 503, 504))
