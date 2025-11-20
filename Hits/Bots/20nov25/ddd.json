@@ -1,0 +1,201 @@
+{
+  "count": 4,
+  "accounts": [
+    {
+      "user_id": "667559342",
+      "username": "ddd_5",
+      "normalized_username": "ddd_5",
+      "suspicion_score": 0,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2075,
+          "score": 1552120,
+          "username": "ddd_5",
+          "level": 0,
+          "id": 667559342,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          6
+        ],
+        "meta": {
+          "batch": "1to5000"
+        }
+      },
+      "similar_group": "ddd",
+      "similar_users": [
+        "ddd_5",
+        "ddd_7",
+        "ddd_1",
+        "ddd_13"
+      ]
+    },
+    {
+      "user_id": "667559346",
+      "username": "ddd_7",
+      "normalized_username": "ddd_7",
+      "suspicion_score": 0,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2097,
+          "score": 1546710,
+          "username": "ddd_7",
+          "level": 0,
+          "id": 667559346,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          6
+        ],
+        "meta": {
+          "batch": "1to5000"
+        }
+      },
+      "similar_group": "ddd",
+      "similar_users": [
+        "ddd_5",
+        "ddd_7",
+        "ddd_1",
+        "ddd_13"
+      ]
+    },
+    {
+      "user_id": "667559326",
+      "username": "ddd_1",
+      "normalized_username": "ddd_1",
+      "suspicion_score": 0,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2633,
+          "score": 1330020,
+          "username": "ddd_1",
+          "level": 0,
+          "id": 667559326,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7
+        ],
+        "meta": {
+          "batch": "1to5000"
+        }
+      },
+      "similar_group": "ddd",
+      "similar_users": [
+        "ddd_5",
+        "ddd_7",
+        "ddd_1",
+        "ddd_13"
+      ]
+    },
+    {
+      "user_id": "667559358",
+      "username": "ddd_13",
+      "normalized_username": "ddd_13",
+      "suspicion_score": 1,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 4365,
+          "score": 978790,
+          "username": "ddd_13",
+          "level": 0,
+          "id": 667559358,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11
+        ],
+        "meta": {
+          "batch": "1to5000"
+        }
+      },
+      "similar_group": "ddd",
+      "similar_users": [
+        "ddd_5",
+        "ddd_7",
+        "ddd_1",
+        "ddd_13"
+      ]
+    }
+  ]
+}
