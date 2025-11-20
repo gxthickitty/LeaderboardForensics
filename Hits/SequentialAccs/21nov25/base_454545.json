@@ -1,0 +1,215 @@
+{
+  "count": 5,
+  "accounts": [
+    {
+      "user_id": "16419445",
+      "username": "454545445454545",
+      "normalized_username": "454545445454545",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 539170,
+          "score": 15520,
+          "username": "454545445454545",
+          "level": 0,
+          "id": 16419445,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1348
+        ],
+        "meta": {
+          "batch": "535001to540000"
+        }
+      }
+    },
+    {
+      "user_id": "17509365",
+      "username": "45454564",
+      "normalized_username": "45454564",
+      "suspicion_score": 5,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 611463,
+          "score": 13525,
+          "username": "45454564",
+          "level": 0,
+          "id": 17509365,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1529
+        ],
+        "meta": {
+          "batch": "610001to615000"
+        }
+      }
+    },
+    {
+      "user_id": "16799982",
+      "username": "45454545454545454",
+      "normalized_username": "45454545454545454",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 700603,
+          "score": 11545,
+          "username": "45454545454545454",
+          "level": 0,
+          "id": 16799982,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/4d/94/4d949125-448f-40e7-bc69-50ebdb132f9f_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/4d/94/4d949125-448f-40e7-bc69-50ebdb132f9f_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/4d/94/4d949125-448f-40e7-bc69-50ebdb132f9f_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/4d/94/4d949125-448f-40e7-bc69-50ebdb132f9f_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1752
+        ],
+        "meta": {
+          "batch": "700001to705000"
+        }
+      }
+    },
+    {
+      "user_id": "20647264",
+      "username": "45454512",
+      "normalized_username": "45454512",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 719298,
+          "score": 11195,
+          "username": "45454512",
+          "level": 0,
+          "id": 20647264,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/f5/cd/f5cd97c9-0aad-46b7-af86-079b3aac4bdb_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/f5/cd/f5cd97c9-0aad-46b7-af86-079b3aac4bdb_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/f5/cd/f5cd97c9-0aad-46b7-af86-079b3aac4bdb_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/f5/cd/f5cd97c9-0aad-46b7-af86-079b3aac4bdb_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1799
+        ],
+        "meta": {
+          "batch": "715001to720000"
+        }
+      }
+    },
+    {
+      "user_id": "50546508",
+      "username": "45454588",
+      "normalized_username": "45454588",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 738788,
+          "score": 10854,
+          "username": "45454588",
+          "level": 0,
+          "id": 50546508,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/95/3c/953c152d-f32c-48ef-aae0-3d1b19871a50_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/95/3c/953c152d-f32c-48ef-aae0-3d1b19871a50_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/95/3c/953c152d-f32c-48ef-aae0-3d1b19871a50_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/95/3c/953c152d-f32c-48ef-aae0-3d1b19871a50_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1847
+        ],
+        "meta": {
+          "batch": "735001to740000"
+        }
+      }
+    }
+  ]
+}
