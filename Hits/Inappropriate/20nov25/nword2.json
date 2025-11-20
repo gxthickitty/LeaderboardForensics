@@ -1,0 +1,535 @@
+{
+  "count": 12,
+  "accounts": [
+    {
+      "user_id": "15405996",
+      "username": "hood nigga",
+      "normalized_username": "hood nigga",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 200406,
+          "score": 43564,
+          "username": "hood nigga",
+          "level": 0,
+          "id": 15405996,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/64/cd/64cd35de-b53a-40ce-b03d-57fdcd5115d6_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/64/cd/64cd35de-b53a-40ce-b03d-57fdcd5115d6_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/64/cd/64cd35de-b53a-40ce-b03d-57fdcd5115d6_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/64/cd/64cd35de-b53a-40ce-b03d-57fdcd5115d6_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          502
+        ],
+        "meta": {
+          "batch": "200001to205000"
+        }
+      }
+    },
+    {
+      "user_id": "11850541",
+      "username": "el crack nigga",
+      "normalized_username": "el crack nigga",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 338740,
+          "score": 25619,
+          "username": "el crack nigga",
+          "level": 0,
+          "id": 11850541,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          847
+        ],
+        "meta": {
+          "batch": "335001to340000"
+        }
+      }
+    },
+    {
+      "user_id": "11984201",
+      "username": "_-Poland-Nigga-_",
+      "normalized_username": "_-poland-nigga-_",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 346155,
+          "score": 25022,
+          "username": "_-Poland-Nigga-_",
+          "level": 0,
+          "id": 11984201,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/51/12/5112c1194efd4a168affd5fde8a8c1fa_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/51/12/5112c1194efd4a168affd5fde8a8c1fa_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/51/12/5112c1194efd4a168affd5fde8a8c1fa_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/51/12/5112c1194efd4a168affd5fde8a8c1fa_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          866
+        ],
+        "meta": {
+          "batch": "345001to350000"
+        }
+      }
+    },
+    {
+      "user_id": "666876367",
+      "username": "wsp345799im my nigga",
+      "normalized_username": "wsp345799im my nigga",
+      "suspicion_score": 5,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 425961,
+          "score": 20016,
+          "username": "wsp345799im my nigga",
+          "level": 0,
+          "id": 666876367,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/cb/a8/cba8dd17-9f84-438a-8964-cefd0bd0589f_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/cb/a8/cba8dd17-9f84-438a-8964-cefd0bd0589f_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/cb/a8/cba8dd17-9f84-438a-8964-cefd0bd0589f_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/cb/a8/cba8dd17-9f84-438a-8964-cefd0bd0589f_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1065
+        ],
+        "meta": {
+          "batch": "425001to430000"
+        }
+      }
+    },
+    {
+      "user_id": "15365066",
+      "username": "bruh bruh bruh nigga",
+      "normalized_username": "bruh bruh bruh nigga",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 436376,
+          "score": 19500,
+          "username": "bruh bruh bruh nigga",
+          "level": 0,
+          "id": 15365066,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1091
+        ],
+        "meta": {
+          "batch": "435001to440000"
+        }
+      }
+    },
+    {
+      "user_id": "25245884",
+      "username": "nigga ass cock fart",
+      "normalized_username": "nigga ass cock fart",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "ass",
+          "cock",
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 60066,
+          "score": 129400,
+          "username": "nigga ass cock fart",
+          "level": 0,
+          "id": 25245884,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e5/29/e5299ca9-3356-492b-ae65-6282cef2a584_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e5/29/e5299ca9-3356-492b-ae65-6282cef2a584_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e5/29/e5299ca9-3356-492b-ae65-6282cef2a584_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e5/29/e5299ca9-3356-492b-ae65-6282cef2a584_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          151
+        ],
+        "meta": {
+          "batch": "60001to65000"
+        }
+      }
+    },
+    {
+      "user_id": "669518781",
+      "username": "SHlT NIGGА 3132",
+      "normalized_username": "shlt nigga 3132",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 69718,
+          "score": 113990,
+          "username": "SHlT NIGGА 3132",
+          "level": 0,
+          "id": 669518781,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          175
+        ],
+        "meta": {
+          "batch": "65001to70000"
+        }
+      }
+    },
+    {
+      "user_id": "669518782",
+      "username": "SHlT NIGGА 3133",
+      "normalized_username": "shlt nigga 3133",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 73978,
+          "score": 108630,
+          "username": "SHlT NIGGА 3133",
+          "level": 0,
+          "id": 669518782,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/28/09/28091236-2524-4ee3-a44e-fb9d967f38f2_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/28/09/28091236-2524-4ee3-a44e-fb9d967f38f2_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/28/09/28091236-2524-4ee3-a44e-fb9d967f38f2_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/28/09/28091236-2524-4ee3-a44e-fb9d967f38f2_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          185
+        ],
+        "meta": {
+          "batch": "70001to75000"
+        }
+      }
+    },
+    {
+      "user_id": "669518762",
+      "username": "SHlT NIGGА 3131",
+      "normalized_username": "shlt nigga 3131",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 75534,
+          "score": 106450,
+          "username": "SHlT NIGGА 3131",
+          "level": 0,
+          "id": 669518762,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          189
+        ],
+        "meta": {
+          "batch": "75001to80000"
+        }
+      }
+    },
+    {
+      "user_id": "669518786",
+      "username": "SHlT NIGGА 3135",
+      "normalized_username": "shlt nigga 3135",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 76418,
+          "score": 105300,
+          "username": "SHlT NIGGА 3135",
+          "level": 0,
+          "id": 669518786,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          192
+        ],
+        "meta": {
+          "batch": "75001to80000"
+        }
+      }
+    },
+    {
+      "user_id": "669518784",
+      "username": "SHlT NIGGА 3134",
+      "normalized_username": "shlt nigga 3134",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 77067,
+          "score": 104540,
+          "username": "SHlT NIGGА 3134",
+          "level": 0,
+          "id": 669518784,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/28/09/28091236-2524-4ee3-a44e-fb9d967f38f2_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/28/09/28091236-2524-4ee3-a44e-fb9d967f38f2_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/28/09/28091236-2524-4ee3-a44e-fb9d967f38f2_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/28/09/28091236-2524-4ee3-a44e-fb9d967f38f2_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          193
+        ],
+        "meta": {
+          "batch": "75001to80000"
+        }
+      }
+    },
+    {
+      "user_id": "669518789",
+      "username": "SHlT NIGGА 3136",
+      "normalized_username": "shlt nigga 3136",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "nigga"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 78128,
+          "score": 103300,
+          "username": "SHlT NIGGА 3136",
+          "level": 0,
+          "id": 669518789,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/1c/82/1c82f692-1fc0-465f-a618-7a113b8ab250_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          196
+        ],
+        "meta": {
+          "batch": "75001to80000"
+        }
+      }
+    }
+  ]
+}
