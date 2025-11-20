@@ -1,0 +1,314 @@
+{
+  "count": 7,
+  "accounts": [
+    {
+      "user_id": "15490998",
+      "username": "fuck shit dum",
+      "normalized_username": "fuck shit dum",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "fuck",
+          "shit"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 180018,
+          "score": 48220,
+          "username": "fuck shit dum",
+          "level": 0,
+          "id": 15490998,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/43/80/4380d643-ad0d-4865-b758-e938ea3afe8c_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/43/80/4380d643-ad0d-4865-b758-e938ea3afe8c_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/43/80/4380d643-ad0d-4865-b758-e938ea3afe8c_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/43/80/4380d643-ad0d-4865-b758-e938ea3afe8c_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          451
+        ],
+        "meta": {
+          "batch": "180001to185000"
+        }
+      }
+    },
+    {
+      "user_id": "51020297",
+      "username": "bourto shit",
+      "normalized_username": "bourto shit",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "shit"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 210231,
+          "score": 41672,
+          "username": "bourto shit",
+          "level": 0,
+          "id": 51020297,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/13/b9/13b955e7-4448-4e6e-be99-263ee71cce38_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/13/b9/13b955e7-4448-4e6e-be99-263ee71cce38_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/13/b9/13b955e7-4448-4e6e-be99-263ee71cce38_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/13/b9/13b955e7-4448-4e6e-be99-263ee71cce38_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          526
+        ],
+        "meta": {
+          "batch": "210001to215000"
+        }
+      }
+    },
+    {
+      "user_id": "51020269",
+      "username": "die shit",
+      "normalized_username": "die shit",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "shit"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 241420,
+          "score": 36452,
+          "username": "die shit",
+          "level": 0,
+          "id": 51020269,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/61/ee/61ee609d-7108-4e75-8497-82210613032f_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/61/ee/61ee609d-7108-4e75-8497-82210613032f_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/61/ee/61ee609d-7108-4e75-8497-82210613032f_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/61/ee/61ee609d-7108-4e75-8497-82210613032f_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          604
+        ],
+        "meta": {
+          "batch": "240001to245000"
+        }
+      }
+    },
+    {
+      "user_id": "25375614",
+      "username": "i shit my pants",
+      "normalized_username": "i shit my pants",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "shit"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 278975,
+          "score": 31446,
+          "username": "i shit my pants",
+          "level": 0,
+          "id": 25375614,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/3f/b4/3fb457ce-c967-4302-8d91-11526fe382be_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/3f/b4/3fb457ce-c967-4302-8d91-11526fe382be_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/3f/b4/3fb457ce-c967-4302-8d91-11526fe382be_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/3f/b4/3fb457ce-c967-4302-8d91-11526fe382be_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          698
+        ],
+        "meta": {
+          "batch": "275001to280000"
+        }
+      }
+    },
+    {
+      "user_id": "50766071",
+      "username": "fack shit",
+      "normalized_username": "fack shit",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "shit"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 374641,
+          "score": 23012,
+          "username": "fack shit",
+          "level": 0,
+          "id": 50766071,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          937
+        ],
+        "meta": {
+          "batch": "370001to375000"
+        }
+      }
+    },
+    {
+      "user_id": "11708270",
+      "username": "kogama shit",
+      "normalized_username": "kogama shit",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "shit"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 463101,
+          "score": 18292,
+          "username": "kogama shit",
+          "level": 0,
+          "id": 11708270,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1158
+        ],
+        "meta": {
+          "batch": "460001to465000"
+        }
+      }
+    },
+    {
+      "user_id": "10708121",
+      "username": "shit gun 3000",
+      "normalized_username": "shit gun 3000",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "shit"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 60272,
+          "score": 129043,
+          "username": "shit gun 3000",
+          "level": 0,
+          "id": 10708121,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          151
+        ],
+        "meta": {
+          "batch": "60001to65000"
+        }
+      }
+    }
+  ]
+}
