@@ -1,0 +1,50 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "18278587",
+      "username": "pussy or cunt",
+      "normalized_username": "pussy or cunt",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "cunt",
+          "pussy"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 365147,
+          "score": 23635,
+          "username": "pussy or cunt",
+          "level": 0,
+          "id": 18278587,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/dd/82/dd821fab-b28f-4af5-987b-6dbbc549d3ad_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/dd/82/dd821fab-b28f-4af5-987b-6dbbc549d3ad_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/dd/82/dd821fab-b28f-4af5-987b-6dbbc549d3ad_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/dd/82/dd821fab-b28f-4af5-987b-6dbbc549d3ad_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          913
+        ],
+        "meta": {
+          "batch": "365001to370000"
+        }
+      }
+    }
+  ]
+}
