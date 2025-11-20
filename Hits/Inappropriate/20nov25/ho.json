@@ -1,0 +1,49 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "51623230",
+      "username": "nasty hoe",
+      "normalized_username": "nasty hoe",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "hoe"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 432267,
+          "score": 19700,
+          "username": "nasty hoe",
+          "level": 0,
+          "id": 51623230,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/5d/fc/5dfc928a-72a3-4d49-84a5-a1183eb18b44_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/5d/fc/5dfc928a-72a3-4d49-84a5-a1183eb18b44_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/5d/fc/5dfc928a-72a3-4d49-84a5-a1183eb18b44_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/5d/fc/5dfc928a-72a3-4d49-84a5-a1183eb18b44_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1081
+        ],
+        "meta": {
+          "batch": "430001to435000"
+        }
+      }
+    }
+  ]
+}
