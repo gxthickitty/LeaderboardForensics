@@ -1,0 +1,49 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "10637709",
+      "username": "niggerass",
+      "normalized_username": "niggerass",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "niggerass"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 269268,
+          "score": 32596,
+          "username": "niggerass",
+          "level": 0,
+          "id": 10637709,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/96/94/96945661cccb4e56afb3ba46ae172a33_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/96/94/96945661cccb4e56afb3ba46ae172a33_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/96/94/96945661cccb4e56afb3ba46ae172a33_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/96/94/96945661cccb4e56afb3ba46ae172a33_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          674
+        ],
+        "meta": {
+          "batch": "265001to270000"
+        }
+      }
+    }
+  ]
+}
