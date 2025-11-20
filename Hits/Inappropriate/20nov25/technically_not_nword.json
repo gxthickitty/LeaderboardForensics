@@ -1,0 +1,1325 @@
+{
+  "count": 30,
+  "accounts": [
+    {
+      "user_id": "15882992",
+      "username": "ozopanda        color    negro",
+      "normalized_username": "ozopanda        color    negro",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 116621,
+          "score": 71865,
+          "username": "ozopanda        color    negro",
+          "level": 0,
+          "id": 15882992,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/c0/80/c080fd13-258b-431c-9566-2eb139ee20fb_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/c0/80/c080fd13-258b-431c-9566-2eb139ee20fb_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/c0/80/c080fd13-258b-431c-9566-2eb139ee20fb_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/c0/80/c080fd13-258b-431c-9566-2eb139ee20fb_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          292
+        ],
+        "meta": {
+          "batch": "115001to120000"
+        }
+      }
+    },
+    {
+      "user_id": "9974424",
+      "username": "El conejo negro",
+      "normalized_username": "el conejo negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 131288,
+          "score": 64669,
+          "username": "El conejo negro",
+          "level": 0,
+          "id": 9974424,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/9a/a0/9aa0c1fb-0e87-4e9b-866d-c111deadafdb_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/9a/a0/9aa0c1fb-0e87-4e9b-866d-c111deadafdb_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/9a/a0/9aa0c1fb-0e87-4e9b-866d-c111deadafdb_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/9a/a0/9aa0c1fb-0e87-4e9b-866d-c111deadafdb_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          329
+        ],
+        "meta": {
+          "batch": "130001to135000"
+        }
+      }
+    },
+    {
+      "user_id": "19196534",
+      "username": "caballero negro x",
+      "normalized_username": "caballero negro x",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 135407,
+          "score": 62867,
+          "username": "caballero negro x",
+          "level": 0,
+          "id": 19196534,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/03/c7/03c743d9-208f-4f9f-9efb-0aa1e1250071_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/03/c7/03c743d9-208f-4f9f-9efb-0aa1e1250071_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/03/c7/03c743d9-208f-4f9f-9efb-0aa1e1250071_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/03/c7/03c743d9-208f-4f9f-9efb-0aa1e1250071_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          339
+        ],
+        "meta": {
+          "batch": "135001to140000"
+        }
+      }
+    },
+    {
+      "user_id": "9047390",
+      "username": "oso panda negro juego",
+      "normalized_username": "oso panda negro juego",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 146431,
+          "score": 58344,
+          "username": "oso panda negro juego",
+          "level": 0,
+          "id": 9047390,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          367
+        ],
+        "meta": {
+          "batch": "145001to150000"
+        }
+      }
+    },
+    {
+      "user_id": "19764943",
+      "username": "Dama De Negro",
+      "normalized_username": "dama de negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 180946,
+          "score": 47967,
+          "username": "Dama De Negro",
+          "level": 0,
+          "id": 19764943,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/23/c7/23c77fce-c54a-4a42-91ee-598ffc74eb5c_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/23/c7/23c77fce-c54a-4a42-91ee-598ffc74eb5c_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/23/c7/23c77fce-c54a-4a42-91ee-598ffc74eb5c_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/23/c7/23c77fce-c54a-4a42-91ee-598ffc74eb5c_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          453
+        ],
+        "meta": {
+          "batch": "180001to185000"
+        }
+      }
+    },
+    {
+      "user_id": "17245439",
+      "username": "ESCORPION NEGRO",
+      "normalized_username": "escorpion negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 195411,
+          "score": 44575,
+          "username": "ESCORPION NEGRO",
+          "level": 0,
+          "id": 17245439,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/d5/13/d5138ec3-9dae-4754-90ff-2c41f6a3730a_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/d5/13/d5138ec3-9dae-4754-90ff-2c41f6a3730a_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/d5/13/d5138ec3-9dae-4754-90ff-2c41f6a3730a_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/d5/13/d5138ec3-9dae-4754-90ff-2c41f6a3730a_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          489
+        ],
+        "meta": {
+          "batch": "195001to200000"
+        }
+      }
+    },
+    {
+      "user_id": "16089093",
+      "username": "em.negro",
+      "normalized_username": "em.negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 206424,
+          "score": 42380,
+          "username": "em.negro",
+          "level": 0,
+          "id": 16089093,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/eb/2f/eb2f74f6-9df5-48cf-8df5-b1f3176042d5_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/eb/2f/eb2f74f6-9df5-48cf-8df5-b1f3176042d5_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/eb/2f/eb2f74f6-9df5-48cf-8df5-b1f3176042d5_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/eb/2f/eb2f74f6-9df5-48cf-8df5-b1f3176042d5_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          517
+        ],
+        "meta": {
+          "batch": "205001to210000"
+        }
+      }
+    },
+    {
+      "user_id": "12636958",
+      "username": "La mujer de NEGRO 777",
+      "normalized_username": "la mujer de negro 777",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 227543,
+          "score": 38711,
+          "username": "La mujer de NEGRO 777",
+          "level": 0,
+          "id": 12636958,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/df/a0/dfa04db4e4c141f0b95cc51b54417b43_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/df/a0/dfa04db4e4c141f0b95cc51b54417b43_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/df/a0/dfa04db4e4c141f0b95cc51b54417b43_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/df/a0/dfa04db4e4c141f0b95cc51b54417b43_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          569
+        ],
+        "meta": {
+          "batch": "225001to230000"
+        }
+      }
+    },
+    {
+      "user_id": "669024519",
+      "username": "minigames mante negro",
+      "normalized_username": "minigames mante negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 247372,
+          "score": 35521,
+          "username": "minigames mante negro",
+          "level": 0,
+          "id": 669024519,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/55/e2/55e23361-5128-4267-aeed-5b49db7fbf3c_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/55/e2/55e23361-5128-4267-aeed-5b49db7fbf3c_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/55/e2/55e23361-5128-4267-aeed-5b49db7fbf3c_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/55/e2/55e23361-5128-4267-aeed-5b49db7fbf3c_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          619
+        ],
+        "meta": {
+          "batch": "245001to250000"
+        }
+      }
+    },
+    {
+      "user_id": "51089270",
+      "username": "victor ninja negro",
+      "normalized_username": "victor ninja negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 270519,
+          "score": 32444,
+          "username": "victor ninja negro",
+          "level": 0,
+          "id": 51089270,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/f7/9b/f79b9adf-cffe-4aa8-9bd9-3cc8a2f86bc3_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/f7/9b/f79b9adf-cffe-4aa8-9bd9-3cc8a2f86bc3_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/f7/9b/f79b9adf-cffe-4aa8-9bd9-3cc8a2f86bc3_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/f7/9b/f79b9adf-cffe-4aa8-9bd9-3cc8a2f86bc3_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          677
+        ],
+        "meta": {
+          "batch": "270001to275000"
+        }
+      }
+    },
+    {
+      "user_id": "667867530",
+      "username": "el lobo negro FF",
+      "normalized_username": "el lobo negro ff",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 275944,
+          "score": 31792,
+          "username": "el lobo negro FF",
+          "level": 0,
+          "id": 667867530,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/ca/5c/ca5c284f-98ac-471d-ae2c-c25e56eb0a09_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/ca/5c/ca5c284f-98ac-471d-ae2c-c25e56eb0a09_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/ca/5c/ca5c284f-98ac-471d-ae2c-c25e56eb0a09_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/ca/5c/ca5c284f-98ac-471d-ae2c-c25e56eb0a09_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          690
+        ],
+        "meta": {
+          "batch": "275001to280000"
+        }
+      }
+    },
+    {
+      "user_id": "19347425",
+      "username": "Daniel panda negro",
+      "normalized_username": "daniel panda negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 281202,
+          "score": 31200,
+          "username": "Daniel panda negro",
+          "level": 0,
+          "id": 19347425,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/f4/47/f447bee8-0bf6-4525-a4db-d7a141ef6204_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/f4/47/f447bee8-0bf6-4525-a4db-d7a141ef6204_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/f4/47/f447bee8-0bf6-4525-a4db-d7a141ef6204_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/f4/47/f447bee8-0bf6-4525-a4db-d7a141ef6204_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          704
+        ],
+        "meta": {
+          "batch": "280001to285000"
+        }
+      }
+    },
+    {
+      "user_id": "667956088",
+      "username": "el angel de negro",
+      "normalized_username": "el angel de negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 289267,
+          "score": 30335,
+          "username": "el angel de negro",
+          "level": 0,
+          "id": 667956088,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          724
+        ],
+        "meta": {
+          "batch": "285001to290000"
+        }
+      }
+    },
+    {
+      "user_id": "14074034",
+      "username": "negro 200",
+      "normalized_username": "negro 200",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 337534,
+          "score": 25717,
+          "username": "negro 200",
+          "level": 0,
+          "id": 14074034,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          844
+        ],
+        "meta": {
+          "batch": "335001to340000"
+        }
+      }
+    },
+    {
+      "user_id": "11815857",
+      "username": "jean paul el espadachin negro",
+      "normalized_username": "jean paul el espadachin negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 366270,
+          "score": 23559,
+          "username": "jean paul el espadachin negro",
+          "level": 0,
+          "id": 11815857,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          916
+        ],
+        "meta": {
+          "batch": "365001to370000"
+        }
+      }
+    },
+    {
+      "user_id": "24823979",
+      "username": "lo negro",
+      "normalized_username": "lo negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 393972,
+          "score": 21805,
+          "username": "lo negro",
+          "level": 0,
+          "id": 24823979,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/d5/50/d550a513-01ac-4b62-b7e9-7f3327be28d2_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/d5/50/d550a513-01ac-4b62-b7e9-7f3327be28d2_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/d5/50/d550a513-01ac-4b62-b7e9-7f3327be28d2_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/d5/50/d550a513-01ac-4b62-b7e9-7f3327be28d2_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          985
+        ],
+        "meta": {
+          "batch": "390001to395000"
+        }
+      }
+    },
+    {
+      "user_id": "667237267",
+      "username": "l Among us negro l",
+      "normalized_username": "l among us negro l",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 424133,
+          "score": 20110,
+          "username": "l Among us negro l",
+          "level": 0,
+          "id": 667237267,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/65/0a/650adb49-d302-4f99-9455-afe7821a1694_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/65/0a/650adb49-d302-4f99-9455-afe7821a1694_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/65/0a/650adb49-d302-4f99-9455-afe7821a1694_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/65/0a/650adb49-d302-4f99-9455-afe7821a1694_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1061
+        ],
+        "meta": {
+          "batch": "420001to425000"
+        }
+      }
+    },
+    {
+      "user_id": "21070551",
+      "username": "Gato Negro 747",
+      "normalized_username": "gato negro 747",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 424991,
+          "score": 20065,
+          "username": "Gato Negro 747",
+          "level": 0,
+          "id": 21070551,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1063
+        ],
+        "meta": {
+          "batch": "420001to425000"
+        }
+      }
+    },
+    {
+      "user_id": "16969831",
+      "username": "hectorcrack kogama el negro",
+      "normalized_username": "hectorcrack kogama el negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 426875,
+          "score": 19970,
+          "username": "hectorcrack kogama el negro",
+          "level": 0,
+          "id": 16969831,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/30/bf/30bfba48-dc35-466d-b747-1e54629aedc9_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/30/bf/30bfba48-dc35-466d-b747-1e54629aedc9_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/30/bf/30bfba48-dc35-466d-b747-1e54629aedc9_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/30/bf/30bfba48-dc35-466d-b747-1e54629aedc9_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1068
+        ],
+        "meta": {
+          "batch": "425001to430000"
+        }
+      }
+    },
+    {
+      "user_id": "13640375",
+      "username": "alias  el  negro",
+      "normalized_username": "alias  el  negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 428926,
+          "score": 19869,
+          "username": "alias  el  negro",
+          "level": 0,
+          "id": 13640375,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1073
+        ],
+        "meta": {
+          "batch": "425001to430000"
+        }
+      }
+    },
+    {
+      "user_id": "7091352",
+      "username": "tigre negro",
+      "normalized_username": "tigre negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 439045,
+          "score": 19369,
+          "username": "tigre negro",
+          "level": 0,
+          "id": 7091352,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1098
+        ],
+        "meta": {
+          "batch": "435001to440000"
+        }
+      }
+    },
+    {
+      "user_id": "19355834",
+      "username": "bigote negro josue",
+      "normalized_username": "bigote negro josue",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 452197,
+          "score": 18765,
+          "username": "bigote negro josue",
+          "level": 0,
+          "id": 19355834,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1131
+        ],
+        "meta": {
+          "batch": "450001to455000"
+        }
+      }
+    },
+    {
+      "user_id": "19309443",
+      "username": "pikachu negro y blanco",
+      "normalized_username": "pikachu negro y blanco",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 481748,
+          "score": 17535,
+          "username": "pikachu negro y blanco",
+          "level": 0,
+          "id": 19309443,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/36/a2/36a2866d-f467-42c4-90c0-d4563080bb5e_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/36/a2/36a2866d-f467-42c4-90c0-d4563080bb5e_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/36/a2/36a2866d-f467-42c4-90c0-d4563080bb5e_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/36/a2/36a2866d-f467-42c4-90c0-d4563080bb5e_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1205
+        ],
+        "meta": {
+          "batch": "480001to485000"
+        }
+      }
+    },
+    {
+      "user_id": "21482827",
+      "username": "lobop negro",
+      "normalized_username": "lobop negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 487495,
+          "score": 17307,
+          "username": "lobop negro",
+          "level": 0,
+          "id": 21482827,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/b5/f3/b5f369ee-2928-4c0b-ae02-5a8e8b0aeae6_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/b5/f3/b5f369ee-2928-4c0b-ae02-5a8e8b0aeae6_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/b5/f3/b5f369ee-2928-4c0b-ae02-5a8e8b0aeae6_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/b5/f3/b5f369ee-2928-4c0b-ae02-5a8e8b0aeae6_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1219
+        ],
+        "meta": {
+          "batch": "485001to490000"
+        }
+      }
+    },
+    {
+      "user_id": "16917429",
+      "username": "colmillo negro",
+      "normalized_username": "colmillo negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 498922,
+          "score": 16880,
+          "username": "colmillo negro",
+          "level": 0,
+          "id": 16917429,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/78/cc/78cc3a5f-5cd5-4e26-b437-a5ad3eb84e50_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/78/cc/78cc3a5f-5cd5-4e26-b437-a5ad3eb84e50_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/78/cc/78cc3a5f-5cd5-4e26-b437-a5ad3eb84e50_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/78/cc/78cc3a5f-5cd5-4e26-b437-a5ad3eb84e50_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1248
+        ],
+        "meta": {
+          "batch": "495001to500000"
+        }
+      }
+    },
+    {
+      "user_id": "669826853",
+      "username": "monte negro xd",
+      "normalized_username": "monte negro xd",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 505101,
+          "score": 16662,
+          "username": "monte negro xd",
+          "level": 0,
+          "id": 669826853,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1263
+        ],
+        "meta": {
+          "batch": "505001to510000"
+        }
+      }
+    },
+    {
+      "user_id": "19043400",
+      "username": "rey negro",
+      "normalized_username": "rey negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 512405,
+          "score": 16395,
+          "username": "rey negro",
+          "level": 0,
+          "id": 19043400,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/8a/3a/8a3a3a9f-6ebb-4fb1-aa68-d383d1d32ce7_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/8a/3a/8a3a3a9f-6ebb-4fb1-aa68-d383d1d32ce7_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/8a/3a/8a3a3a9f-6ebb-4fb1-aa68-d383d1d32ce7_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/8a/3a/8a3a3a9f-6ebb-4fb1-aa68-d383d1d32ce7_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1282
+        ],
+        "meta": {
+          "batch": "510001to515000"
+        }
+      }
+    },
+    {
+      "user_id": "14394210",
+      "username": "los onbres de negro",
+      "normalized_username": "los onbres de negro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 514132,
+          "score": 16333,
+          "username": "los onbres de negro",
+          "level": 0,
+          "id": 14394210,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1286
+        ],
+        "meta": {
+          "batch": "510001to515000"
+        }
+      }
+    },
+    {
+      "user_id": "668854011",
+      "username": "-_Luisito De Negro_-",
+      "normalized_username": "-_luisito de negro_-",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 86340,
+          "score": 94777,
+          "username": "-_Luisito De Negro_-",
+          "level": 0,
+          "id": 668854011,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/02/f9/02f97f6e-eda6-4877-bb46-6e553bda7d49_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/02/f9/02f97f6e-eda6-4877-bb46-6e553bda7d49_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/02/f9/02f97f6e-eda6-4877-bb46-6e553bda7d49_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/02/f9/02f97f6e-eda6-4877-bb46-6e553bda7d49_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          216
+        ],
+        "meta": {
+          "batch": "85001to90000"
+        }
+      }
+    },
+    {
+      "user_id": "16662792",
+      "username": "blanco y negro retro",
+      "normalized_username": "blanco y negro retro",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "negro"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 94681,
+          "score": 86900,
+          "username": "blanco y negro retro",
+          "level": 0,
+          "id": 16662792,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/48/1c/481cb2bb-4e27-42ea-824d-e9a12dce0cfd_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/48/1c/481cb2bb-4e27-42ea-824d-e9a12dce0cfd_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/48/1c/481cb2bb-4e27-42ea-824d-e9a12dce0cfd_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/48/1c/481cb2bb-4e27-42ea-824d-e9a12dce0cfd_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          237
+        ],
+        "meta": {
+          "batch": "90001to95000"
+        }
+      }
+    }
+  ]
+}
