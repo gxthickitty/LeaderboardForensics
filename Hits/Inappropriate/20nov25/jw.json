@@ -1,0 +1,93 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "670301067",
+      "username": "Jew Atomizer",
+      "normalized_username": "jew atomizer",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "jew"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 114216,
+          "score": 73280,
+          "username": "Jew Atomizer",
+          "level": 0,
+          "id": 670301067,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          286
+        ],
+        "meta": {
+          "batch": "110001to115000"
+        }
+      }
+    },
+    {
+      "user_id": "17308001",
+      "username": "i am jew",
+      "normalized_username": "i am jew",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "jew"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 74338,
+          "score": 108133,
+          "username": "i am jew",
+          "level": 0,
+          "id": 17308001,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/f6/37/f637e6b0-0cc0-46c6-9b78-e9702f2d0216_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/f6/37/f637e6b0-0cc0-46c6-9b78-e9702f2d0216_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/f6/37/f637e6b0-0cc0-46c6-9b78-e9702f2d0216_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/f6/37/f637e6b0-0cc0-46c6-9b78-e9702f2d0216_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          186
+        ],
+        "meta": {
+          "batch": "70001to75000"
+        }
+      }
+    }
+  ]
+}
