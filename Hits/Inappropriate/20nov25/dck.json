@@ -1,0 +1,269 @@
+{
+  "count": 6,
+  "accounts": [
+    {
+      "user_id": "21975601",
+      "username": "dick wen",
+      "normalized_username": "dick wen",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "dick"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 173540,
+          "score": 50024,
+          "username": "dick wen",
+          "level": 0,
+          "id": 21975601,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/9b/85/9b85d272-b25b-4503-86bb-9dc45f70a8d5_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/9b/85/9b85d272-b25b-4503-86bb-9dc45f70a8d5_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/9b/85/9b85d272-b25b-4503-86bb-9dc45f70a8d5_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/9b/85/9b85d272-b25b-4503-86bb-9dc45f70a8d5_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          434
+        ],
+        "meta": {
+          "batch": "170001to175000"
+        }
+      }
+    },
+    {
+      "user_id": "667408112",
+      "username": "ᴅɪᴄᴋ",
+      "normalized_username": "dick",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "dick"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 225126,
+          "score": 39095,
+          "username": "ᴅɪᴄᴋ",
+          "level": 0,
+          "id": 667408112,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/09/c4/09c44e38-d87f-4c06-b596-f42c2e3352c1_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/09/c4/09c44e38-d87f-4c06-b596-f42c2e3352c1_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/09/c4/09c44e38-d87f-4c06-b596-f42c2e3352c1_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/09/c4/09c44e38-d87f-4c06-b596-f42c2e3352c1_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          563
+        ],
+        "meta": {
+          "batch": "225001to230000"
+        }
+      }
+    },
+    {
+      "user_id": "6190594",
+      "username": "you are dick",
+      "normalized_username": "you are dick",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "dick"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 381119,
+          "score": 22591,
+          "username": "you are dick",
+          "level": 0,
+          "id": 6190594,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          953
+        ],
+        "meta": {
+          "batch": "380001to385000"
+        }
+      }
+    },
+    {
+      "user_id": "21611238",
+      "username": "poop and dick",
+      "normalized_username": "poop and dick",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "dick"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 454576,
+          "score": 18657,
+          "username": "poop and dick",
+          "level": 0,
+          "id": 21611238,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/ad/d7/add7d087-3bf5-4527-9bdf-abff567a02d5_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/ad/d7/add7d087-3bf5-4527-9bdf-abff567a02d5_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/ad/d7/add7d087-3bf5-4527-9bdf-abff567a02d5_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/ad/d7/add7d087-3bf5-4527-9bdf-abff567a02d5_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1137
+        ],
+        "meta": {
+          "batch": "450001to455000"
+        }
+      }
+    },
+    {
+      "user_id": "24066151",
+      "username": "dick.jpg",
+      "normalized_username": "dick.jpg",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "dick"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 472061,
+          "score": 17922,
+          "username": "dick.jpg",
+          "level": 0,
+          "id": 24066151,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/f5/ec/f5ec966d-f203-474a-83db-03928155fc4c_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/f5/ec/f5ec966d-f203-474a-83db-03928155fc4c_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/f5/ec/f5ec966d-f203-474a-83db-03928155fc4c_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/f5/ec/f5ec966d-f203-474a-83db-03928155fc4c_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1181
+        ],
+        "meta": {
+          "batch": "470001to475000"
+        }
+      }
+    },
+    {
+      "user_id": "19620579",
+      "username": "Dick grayson Red hood",
+      "normalized_username": "dick grayson red hood",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "dick"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 54647,
+          "score": 139392,
+          "username": "Dick grayson Red hood",
+          "level": 0,
+          "id": 19620579,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/58/29/58294b82-630f-449a-8530-b3fa8f5af802_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/58/29/58294b82-630f-449a-8530-b3fa8f5af802_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/58/29/58294b82-630f-449a-8530-b3fa8f5af802_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/58/29/58294b82-630f-449a-8530-b3fa8f5af802_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          137
+        ],
+        "meta": {
+          "batch": "50001to55000"
+        }
+      }
+    }
+  ]
+}
