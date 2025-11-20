@@ -1,0 +1,182 @@
+{
+  "count": 4,
+  "accounts": [
+    {
+      "user_id": "17930008",
+      "username": "Hᴇɴᴛᴀɪ",
+      "normalized_username": "hentai",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "hentai"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 251165,
+          "score": 34970,
+          "username": "Hᴇɴᴛᴀɪ",
+          "level": 0,
+          "id": 17930008,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/a9/18/a918fd95-aaff-4e6c-b8c1-454dd75eecc8_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/a9/18/a918fd95-aaff-4e6c-b8c1-454dd75eecc8_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/a9/18/a918fd95-aaff-4e6c-b8c1-454dd75eecc8_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/a9/18/a918fd95-aaff-4e6c-b8c1-454dd75eecc8_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          628
+        ],
+        "meta": {
+          "batch": "250001to255000"
+        }
+      }
+    },
+    {
+      "user_id": "2392165",
+      "username": "Pedobear Hentai",
+      "normalized_username": "pedobear hentai",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "hentai",
+          "pedobear"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 298503,
+          "score": 29365,
+          "username": "Pedobear Hentai",
+          "level": 0,
+          "id": 2392165,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          747
+        ],
+        "meta": {
+          "batch": "295001to300000"
+        }
+      }
+    },
+    {
+      "user_id": "667179842",
+      "username": "-ʜᴇɴᴛᴀɪ-",
+      "normalized_username": "-hentai-",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "hentai"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 8295,
+          "score": 642804,
+          "username": "-ʜᴇɴᴛᴀɪ-",
+          "level": 0,
+          "id": 667179842,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e2/f0/e2f0a3fc-0086-4c7a-946b-1d5b0ce739b3_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e2/f0/e2f0a3fc-0086-4c7a-946b-1d5b0ce739b3_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e2/f0/e2f0a3fc-0086-4c7a-946b-1d5b0ce739b3_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e2/f0/e2f0a3fc-0086-4c7a-946b-1d5b0ce739b3_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          21
+        ],
+        "meta": {
+          "batch": "5001to10000"
+        }
+      }
+    },
+    {
+      "user_id": "9873929",
+      "username": "Naruto  hentai",
+      "normalized_username": "naruto  hentai",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": true,
+        "found_words": [
+          "hentai"
+        ]
+      },
+      "user_data": {
+        "latest": {
+          "rank": 527993,
+          "score": 15869,
+          "username": "Naruto  hentai",
+          "level": 0,
+          "id": 9873929,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1320
+        ],
+        "meta": {
+          "batch": "525001to530000"
+        }
+      }
+    }
+  ]
+}
