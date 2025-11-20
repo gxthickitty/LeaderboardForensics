@@ -1,0 +1,103 @@
+{
+  "pattern_type": "separated_base",
+  "pattern_value": "eee",
+  "count": 3,
+  "quality_score": 19.0,
+  "number_patterns": {
+    "pattern": "sequential",
+    "numbers": [
+      1,
+      3,
+      5
+    ],
+    "min_number": 1,
+    "max_number": 5,
+    "number_range": 4,
+    "consistent_digits": true,
+    "common_digit_count": 1,
+    "count": 3
+  },
+  "avg_suspicion": 3.0,
+  "usernames": [
+    "eee_3",
+    "eee_5",
+    "eee_1"
+  ],
+  "accounts": [
+    {
+      "user_id": "667530869",
+      "username": "eee_3",
+      "user_data": {
+        "latest": {
+          "rank": 1259,
+          "score": 2198900,
+          "username": "eee_3",
+          "level": 0,
+          "id": 667530869,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667530869/"
+    },
+    {
+      "user_id": "667530876",
+      "username": "eee_5",
+      "user_data": {
+        "latest": {
+          "rank": 1276,
+          "score": 2168550,
+          "username": "eee_5",
+          "level": 0,
+          "id": 667530876,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667530876/"
+    },
+    {
+      "user_id": "667530853",
+      "username": "eee_1",
+      "user_data": {
+        "latest": {
+          "rank": 2517,
+          "score": 1380520,
+          "username": "eee_1",
+          "level": 0,
+          "id": 667530853,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7
+        ]
+      },
+      "suspicion_score": 3,
+      "profile_url": "https://www.kogama.com/profile/667530853/"
+    }
+  ]
+}
