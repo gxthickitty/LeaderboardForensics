@@ -25,8 +25,9 @@ Scraping is performed through the public leaderboard endpoint: ``api/leaderboard
 Since the endpoint enforces a maximum ``count`` of ``400`` per page, the process relies on sequential pagination. Each page is written to disk immediately for safety and later processing.
 
 Request format:  
-``{ENDPOINT}?count={COUNT}&page={PAGE}``
+``{ENDPOINT}?count={COUNT}&page={PAGE}``    
 
+**Special Credits to __Zpayer__** as it is a project only possible thanks to his original code of [KoGaMaSearch](https://github.com/RandomUser15456/KoGaMa-Search)    
 Initial scrape launched: **November 16th, 3:42 AM**.
 
 ---
