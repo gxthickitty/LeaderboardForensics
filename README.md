@@ -41,7 +41,18 @@ A dedicated directory for accounts confirmed to display traits associated with a
 - Machine-like activity repetition  
 - External or inappropriate promotional links in profile fields  
 
-This folder acts as a consolidated reference for reporting and reviewing suspicious account clusters.
+This folder acts as a consolidated reference for reporting and reviewing suspicious account clusters.   
+
+### `LeaderboardDB/Hits/Inappropriate`
+A focused directory for accounts flagged by the automated username-content screening system. These entries typically include indicators such as:
+
+- Detected slurs, discriminatory phrasing, or derogatory constructions  
+- Obfuscated or stylistically altered forms of offensive language  
+- Usernames crafted to evade standard filters while preserving harmful intent  
+- Embedded references that fall under prohibited or sensitive categories  
+
+This folder serves as a structured archive for reviewing, documenting, and reporting profiles whose naming patterns violate community standards or present clear moderation concerns.
+
 
 ---
 
