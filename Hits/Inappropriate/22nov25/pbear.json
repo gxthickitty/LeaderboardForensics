@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "4797654",
+      "username": "pedobear XD 123",
+      "found_slurs": [
+        "pedobear"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1052482,
+          "score": 7115,
+          "username": "pedobear XD 123",
+          "level": 0,
+          "id": 4797654,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2632
+        ],
+        "meta": {
+          "batch": "1050001to1055000"
+        }
+      }
+    }
+  ]
+}
