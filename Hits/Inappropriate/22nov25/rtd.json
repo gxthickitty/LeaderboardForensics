@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "50796747",
+      "username": "retarded as fuck",
+      "found_slurs": [
+        "fuck",
+        "retarded"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1029000,
+          "score": 7310,
+          "username": "retarded as fuck",
+          "level": 0,
+          "id": 50796747,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/1b/e4/1be48386-4f38-4ace-b52f-bb66a6513619_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/1b/e4/1be48386-4f38-4ace-b52f-bb66a6513619_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/1b/e4/1be48386-4f38-4ace-b52f-bb66a6513619_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/1b/e4/1be48386-4f38-4ace-b52f-bb66a6513619_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2573
+        ],
+        "meta": {
+          "batch": "1025001to1030000"
+        }
+      }
+    }
+  ]
+}
