@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "50824383",
+      "username": "ugly hoe xD",
+      "found_slurs": [
+        "hoe"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1497052,
+          "score": 4605,
+          "username": "ugly hoe xD",
+          "level": 0,
+          "id": 50824383,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3743
+        ],
+        "meta": {
+          "batch": "1495001to1500000"
+        }
+      }
+    }
+  ]
+}
