@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "17555864",
+      "username": "quiero@tener s e x o",
+      "found_slurs": [
+        "sex",
+        "sexo"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1294160,
+          "score": 5510,
+          "username": "quiero@tener s e x o",
+          "level": 0,
+          "id": 17555864,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/5a/f0/5af0d142-4b1c-4379-909b-0175aa7ae3ff_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/5a/f0/5af0d142-4b1c-4379-909b-0175aa7ae3ff_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/5a/f0/5af0d142-4b1c-4379-909b-0175aa7ae3ff_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/5a/f0/5af0d142-4b1c-4379-909b-0175aa7ae3ff_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3236
+        ],
+        "meta": {
+          "batch": "1290001to1295000"
+        }
+      }
+    }
+  ]
+}
