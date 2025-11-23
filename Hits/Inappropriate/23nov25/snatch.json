@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "51504006",
+      "username": "fuck my ginger snatch",
+      "found_slurs": [
+        "fuck",
+        "snatch"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1392220,
+          "score": 5036,
+          "username": "fuck my ginger snatch",
+          "level": 0,
+          "id": 51504006,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/23/07/2307661f-0beb-4447-8f6c-d960c004e01a_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/23/07/2307661f-0beb-4447-8f6c-d960c004e01a_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/23/07/2307661f-0beb-4447-8f6c-d960c004e01a_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/23/07/2307661f-0beb-4447-8f6c-d960c004e01a_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3481
+        ],
+        "meta": {
+          "batch": "1390001to1395000"
+        }
+      }
+    }
+  ]
+}
