@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "20381705",
+      "username": "anuspukkel_nigger",
+      "found_slurs": [
+        "nigger"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1184450,
+          "score": 6154,
+          "username": "anuspukkel_nigger",
+          "level": 0,
+          "id": 20381705,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2962
+        ],
+        "meta": {
+          "batch": "1180001to1185000"
+        }
+      }
+    }
+  ]
+}
