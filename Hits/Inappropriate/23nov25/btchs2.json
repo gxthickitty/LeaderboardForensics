@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "15623140",
+      "username": "die bit+ches",
+      "found_slurs": [
+        "bitches"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1412363,
+          "score": 4950,
+          "username": "die bit+ches",
+          "level": 0,
+          "id": 15623140,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3531
+        ],
+        "meta": {
+          "batch": "1410001to1415000"
+        }
+      }
+    }
+  ]
+}
