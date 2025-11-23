@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "24179514",
+      "username": "Nazi_Boy",
+      "found_slurs": [
+        "nazi"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1155623,
+          "score": 6345,
+          "username": "Nazi_Boy",
+          "level": 0,
+          "id": 24179514,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2890
+        ],
+        "meta": {
+          "batch": "1155001to1160000"
+        }
+      }
+    }
+  ]
+}
