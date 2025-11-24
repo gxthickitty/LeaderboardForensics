@@ -1,6 +1,6 @@
 # LeaderboardDB
 
-A structured repository dedicated to collecting, preserving, and analysing every publicly visible account on [WWW KoGaMa](https://www.kogama.com). Its purpose is to identify indicators of automated activity, coordinated boosting, harassment patterns, and usernames that violate platform standards.  
+A structured repository dedicated to collecting, preserving, and analysing every publicly visible account on KoGaMa. Its purpose is to identify indicators of automated activity, coordinated boosting, harassment patterns, and usernames that violate platform standards.  
 Flagged accounts are stored to support investigation, reporting, and long-term monitoring.
 
 ---
