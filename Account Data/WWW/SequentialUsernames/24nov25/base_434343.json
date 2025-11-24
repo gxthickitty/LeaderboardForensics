@@ -1,0 +1,81 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "23098443",
+      "username": "4343434343434343656565656",
+      "normalized_username": "4343434343434343656565656",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1312298,
+          "score": 5416,
+          "username": "4343434343434343656565656",
+          "level": 0,
+          "id": 23098443,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3281
+        ],
+        "meta": {
+          "batch": "1310001to1315000"
+        }
+      }
+    },
+    {
+      "user_id": "20579520",
+      "username": "43434344",
+      "normalized_username": "43434344",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1321883,
+          "score": 5369,
+          "username": "43434344",
+          "level": 0,
+          "id": 20579520,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/1c/bc/1cbc3916-40fe-47f8-a323-3441cc142a90_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/1c/bc/1cbc3916-40fe-47f8-a323-3441cc142a90_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/1c/bc/1cbc3916-40fe-47f8-a323-3441cc142a90_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/1c/bc/1cbc3916-40fe-47f8-a323-3441cc142a90_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3305
+        ],
+        "meta": {
+          "batch": "1320001to1325000"
+        }
+      }
+    }
+  ]
+}

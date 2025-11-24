@@ -1,0 +1,131 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "16418908",
+      "username": "45666622",
+      "normalized_username": "45666622",
+      "suspicion_score": 5,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1020444,
+          "score": 7385,
+          "username": "45666622",
+          "level": 0,
+          "id": 16418908,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/87/fe/87fe284b-4fb7-4ee3-9a13-cfe482de2541_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/87/fe/87fe284b-4fb7-4ee3-9a13-cfe482de2541_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/87/fe/87fe284b-4fb7-4ee3-9a13-cfe482de2541_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/87/fe/87fe284b-4fb7-4ee3-9a13-cfe482de2541_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2552
+        ],
+        "meta": {
+          "batch": "1020001to1025000"
+        }
+      }
+    },
+    {
+      "user_id": "50041166",
+      "username": "456666745",
+      "normalized_username": "456666745",
+      "suspicion_score": 5,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 810182,
+          "score": 9743,
+          "username": "456666745",
+          "level": 0,
+          "id": 50041166,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2026
+        ],
+        "meta": {
+          "batch": "810001to815000"
+        }
+      }
+    },
+    {
+      "user_id": "21287603",
+      "username": "45666677",
+      "normalized_username": "45666677",
+      "suspicion_score": 5,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 903075,
+          "score": 8550,
+          "username": "45666677",
+          "level": 0,
+          "id": 21287603,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2258
+        ],
+        "meta": {
+          "batch": "900001to905000"
+        }
+      }
+    }
+  ]
+}

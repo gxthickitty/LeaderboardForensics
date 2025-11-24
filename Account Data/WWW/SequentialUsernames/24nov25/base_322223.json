@@ -1,0 +1,81 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "17851963",
+      "username": "32222333",
+      "normalized_username": "32222333",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1205216,
+          "score": 6025,
+          "username": "32222333",
+          "level": 0,
+          "id": 17851963,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/e2/17/e21792d9-8220-444d-bae9-119cf276cb9e_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/e2/17/e21792d9-8220-444d-bae9-119cf276cb9e_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/e2/17/e21792d9-8220-444d-bae9-119cf276cb9e_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/e2/17/e21792d9-8220-444d-bae9-119cf276cb9e_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3014
+        ],
+        "meta": {
+          "batch": "1205001to1210000"
+        }
+      }
+    },
+    {
+      "user_id": "24160449",
+      "username": "3222233333333",
+      "normalized_username": "3222233333333",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1411819,
+          "score": 4950,
+          "username": "3222233333333",
+          "level": 0,
+          "id": 24160449,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3530
+        ],
+        "meta": {
+          "batch": "1410001to1415000"
+        }
+      }
+    }
+  ]
+}

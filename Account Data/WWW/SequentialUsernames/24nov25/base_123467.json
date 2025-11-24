@@ -1,0 +1,81 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "24858558",
+      "username": "1234678888",
+      "normalized_username": "1234678888",
+      "suspicion_score": 5,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1357408,
+          "score": 5196,
+          "username": "1234678888",
+          "level": 0,
+          "id": 24858558,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3394
+        ],
+        "meta": {
+          "batch": "1355001to1360000"
+        }
+      }
+    },
+    {
+      "user_id": "50417638",
+      "username": "12346756",
+      "normalized_username": "12346756",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1376296,
+          "score": 5109,
+          "username": "12346756",
+          "level": 0,
+          "id": 50417638,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/4e/a3/4ea30b04-eacf-40b0-9cd6-ebed10880722_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/4e/a3/4ea30b04-eacf-40b0-9cd6-ebed10880722_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/4e/a3/4ea30b04-eacf-40b0-9cd6-ebed10880722_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/4e/a3/4ea30b04-eacf-40b0-9cd6-ebed10880722_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3441
+        ],
+        "meta": {
+          "batch": "1375001to1380000"
+        }
+      }
+    }
+  ]
+}

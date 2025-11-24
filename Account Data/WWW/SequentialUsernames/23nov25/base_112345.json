@@ -1,0 +1,131 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "21921399",
+      "username": "1123459673",
+      "normalized_username": "1123459673",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1094168,
+          "score": 6786,
+          "username": "1123459673",
+          "level": 0,
+          "id": 21921399,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2736
+        ],
+        "meta": {
+          "batch": "1090001to1095000"
+        }
+      }
+    },
+    {
+      "user_id": "18371274",
+      "username": "1@12345678910023",
+      "normalized_username": "1@12345678910023",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1104267,
+          "score": 6710,
+          "username": "1@12345678910023",
+          "level": 0,
+          "id": 18371274,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2761
+        ],
+        "meta": {
+          "batch": "1100001to1105000"
+        }
+      }
+    },
+    {
+      "user_id": "14996457",
+      "username": "112345678909876543456789",
+      "normalized_username": "112345678909876543456789",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1152800,
+          "score": 6365,
+          "username": "112345678909876543456789",
+          "level": 0,
+          "id": 14996457,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/bb/cb/bbcba38c-7019-460a-b784-9e93b105a898_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/bb/cb/bbcba38c-7019-460a-b784-9e93b105a898_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/bb/cb/bbcba38c-7019-460a-b784-9e93b105a898_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/bb/cb/bbcba38c-7019-460a-b784-9e93b105a898_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          2882
+        ],
+        "meta": {
+          "batch": "1150001to1155000"
+        }
+      }
+    }
+  ]
+}

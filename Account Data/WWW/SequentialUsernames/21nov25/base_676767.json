@@ -1,0 +1,89 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "50268609",
+      "username": "67676786786786",
+      "normalized_username": "67676786786786",
+      "suspicion_score": 5,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 661491,
+          "score": 12370,
+          "username": "67676786786786",
+          "level": 0,
+          "id": 50268609,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/46/a9/46a94d00-eee3-49ff-aed4-8789e8363f07_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/46/a9/46a94d00-eee3-49ff-aed4-8789e8363f07_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/46/a9/46a94d00-eee3-49ff-aed4-8789e8363f07_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/46/a9/46a94d00-eee3-49ff-aed4-8789e8363f07_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1654
+        ],
+        "meta": {
+          "batch": "660001to665000"
+        }
+      }
+    },
+    {
+      "user_id": "23147626",
+      "username": "6767677766776767676766766",
+      "normalized_username": "6767677766776767676766766",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "content_check": {
+        "has_inappropriate": false,
+        "found_words": []
+      },
+      "user_data": {
+        "latest": {
+          "rank": 754547,
+          "score": 10590,
+          "username": "6767677766776767676766766",
+          "level": 0,
+          "id": 23147626,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/da/cf/dacf1fbd-134a-4d67-baa2-b7a96d341779_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/da/cf/dacf1fbd-134a-4d67-baa2-b7a96d341779_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/da/cf/dacf1fbd-134a-4d67-baa2-b7a96d341779_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/da/cf/dacf1fbd-134a-4d67-baa2-b7a96d341779_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          1887
+        ],
+        "meta": {
+          "batch": "750001to755000"
+        }
+      }
+    }
+  ]
+}
