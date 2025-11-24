@@ -104,8 +104,9 @@ It handles sequential pagination, local storage of retrieved pages, and ensures 
 
 ## Credits
 
-- **Zpayer** - Original creator of the scraping logic in NJS, My work is a port of it into python (*to be more accesssible, albeit slower)   
-- **EJota** - For being the main and almost direct channel to report and take down the accounts. Thank you for the patience & time.
+- **Zpayer** – Author of the original scraping approach implemented in Node.js. This project adapts that foundation into Python to broaden accessibility, even if performance differs.   
+- **EJota** – Acting as the primary liaison for account reporting and escalation within the moderation environment. 
+
 
 
 ---
