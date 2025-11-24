@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "12330892",
+      "username": "Pedobear Is Coming",
+      "found_slurs": [
+        "pedobear"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1585728,
+          "score": 4287,
+          "username": "Pedobear Is Coming",
+          "level": 0,
+          "id": 12330892,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3965
+        ],
+        "meta": {
+          "batch": "1585001to1590000"
+        }
+      }
+    }
+  ]
+}
