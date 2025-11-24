@@ -1,0 +1,81 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "10879458",
+      "username": "100007371819791",
+      "normalized_username": "100007371819791",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1378688,
+          "score": 5098,
+          "username": "100007371819791",
+          "level": 0,
+          "id": 10879458,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3447
+        ],
+        "meta": {
+          "batch": "1375001to1380000"
+        }
+      }
+    },
+    {
+      "user_id": "50654402",
+      "username": "10000748",
+      "normalized_username": "10000748",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1422311,
+          "score": 4906,
+          "username": "10000748",
+          "level": 0,
+          "id": 50654402,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          3556
+        ],
+        "meta": {
+          "batch": "1420001to1425000"
+        }
+      }
+    }
+  ]
+}
