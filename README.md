@@ -21,8 +21,9 @@ Completeness and reproducibility outrank elegance, ensuring that all retrieved d
 
 ## Results
 
- [ WWW ]  ``Sun, 23.11.2025`` : 580 Accounts from <ins>BoostingBots</ins> flag were confirmed to have been deleted/banned.     
- [ WWW ]  ``Tue, 25.11.2025`` : 700 Accounts from <ins>InappropriateUsername</ins> flag were confirmed to have been deleted/banned.   
+####  KoGaMa WWW
+   ``Sun, 23.11.2025`` : 580 Accounts from <ins>BoostingBots</ins> flag were confirmed to have been deleted/banned.     
+   ``Tue, 25.11.2025`` : 700 Accounts from <ins>InappropriateUsername</ins> flag were confirmed to have been deleted/banned.   
 
 
 **Special Credits to Ejota** for being an incredible help when it comes to clearing out false positives as well as forwarding the reports to moderation in  fashion that brings a quicker response and steps taken against these accounts and users.
