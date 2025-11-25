@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "19538425",
+      "username": "Cunt Face",
+      "found_slurs": [
+        "cunt"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1791591,
+          "score": 3660,
+          "username": "Cunt Face",
+          "level": 0,
+          "id": 19538425,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4479
+        ],
+        "meta": {
+          "batch": "1790001to1795000"
+        }
+      }
+    }
+  ]
+}
