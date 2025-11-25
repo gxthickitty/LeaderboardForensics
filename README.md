@@ -1,4 +1,4 @@
-# LeaderboardDB
+# LeaderboardAPI
 
 A structured repository dedicated to indexing and analysing every publicly visible account on KoGaMa. Its purpose is to identify indicators of automated activity, coordinated boosting, harassment patterns, and usernames that violate platform standards.  
 Flagged accounts are stored to support investigation, reporting, and long-term monitoring.
