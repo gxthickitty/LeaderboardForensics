@@ -19,6 +19,13 @@ Completeness and reproducibility outrank elegance, ensuring that all retrieved d
 
 ---
 
+## Results
+
+   ``Sun, 23.11.2025`` : 580 Accounts from <ins>BoostingBots</ins> flag were confirmed to have been deleted/banned.     
+   ``Tue, 25.11.2025`` : 700 Accounts from <ins>InappropriateUsername</ins> flag were confirmed to have been deleted/banned.   
+
+---
+
 ## API Method
 
 Scraping is performed through the public leaderboard endpoint:  
@@ -99,6 +106,7 @@ It handles sequential pagination, local storage of retrieved pages, and ensures 
 
 - Scraped data will **not** be published, mirrored, or externally backed up. This decision is based on privacy considerations, legal boundaries, and unnecessary storage overhead.  
 - Code quality is not the objective, only the outcome and integrity of the dataset matter.
+    
 
 ---
 
