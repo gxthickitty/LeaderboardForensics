@@ -1,0 +1,81 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "20576972",
+      "username": "123456789    10",
+      "normalized_username": "123456789    10",
+      "suspicion_score": 5,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": true
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1718542,
+          "score": 3863,
+          "username": "123456789    10",
+          "level": 0,
+          "id": 20576972,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/c2/e9/c2e97144-a69c-4bb7-b8d7-e4870034661c_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/c2/e9/c2e97144-a69c-4bb7-b8d7-e4870034661c_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/c2/e9/c2e97144-a69c-4bb7-b8d7-e4870034661c_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/c2/e9/c2e97144-a69c-4bb7-b8d7-e4870034661c_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4297
+        ],
+        "meta": {
+          "batch": "1715001to1720000"
+        }
+      }
+    },
+    {
+      "user_id": "18321013",
+      "username": "123456789---0",
+      "normalized_username": "123456789---0",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 1723095,
+          "score": 3850,
+          "username": "123456789---0",
+          "level": 0,
+          "id": 18321013,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4308
+        ],
+        "meta": {
+          "batch": "1720001to1725000"
+        }
+      }
+    }
+  ]
+}
