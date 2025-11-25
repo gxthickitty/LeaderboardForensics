@@ -1,0 +1,164 @@
+{
+  "count": 4,
+  "accounts": [
+    {
+      "user_id": "14204737",
+      "username": "xPLOIT451",
+      "normalized_username": "xploit451",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": true,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2078250,
+          "score": 3002,
+          "username": "xPLOIT451",
+          "level": 0,
+          "id": 14204737,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5196
+        ],
+        "meta": {
+          "batch": "2075001to2080000"
+        }
+      }
+    },
+    {
+      "user_id": "14192323",
+      "username": "XPLOIT61",
+      "normalized_username": "xploit61",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": true,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2078251,
+          "score": 3002,
+          "username": "XPLOIT61",
+          "level": 0,
+          "id": 14192323,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5196
+        ],
+        "meta": {
+          "batch": "2075001to2080000"
+        }
+      }
+    },
+    {
+      "user_id": "14192268",
+      "username": "XPLOIT60",
+      "normalized_username": "xploit60",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": true,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2078252,
+          "score": 3002,
+          "username": "XPLOIT60",
+          "level": 0,
+          "id": 14192268,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5196
+        ],
+        "meta": {
+          "batch": "2075001to2080000"
+        }
+      }
+    },
+    {
+      "user_id": "12889920",
+      "username": "Xploit test",
+      "normalized_username": "xploit test",
+      "suspicion_score": 2,
+      "patterns": {
+        "ends_with_numbers": false,
+        "contains_bot_keywords": true,
+        "repeated_patterns": false,
+        "sequential_numbers": false,
+        "many_numbers": false,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2077946,
+          "score": 3003,
+          "username": "Xploit test",
+          "level": 0,
+          "id": 12889920,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5195
+        ],
+        "meta": {
+          "batch": "2075001to2080000"
+        }
+      },
+      "similar_group": "xploit",
+      "similar_users": [
+        "Xploit test",
+        "xPLOIT451",
+        "XPLOIT61",
+        "XPLOIT60"
+      ]
+    }
+  ]
+}
