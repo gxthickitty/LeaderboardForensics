@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "15731435",
+      "username": "Raping Panda",
+      "found_slurs": [
+        "raping"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1815367,
+          "score": 3600,
+          "username": "Raping Panda",
+          "level": 0,
+          "id": 15731435,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4539
+        ],
+        "meta": {
+          "batch": "1815001to1820000"
+        }
+      }
+    }
+  ]
+}
