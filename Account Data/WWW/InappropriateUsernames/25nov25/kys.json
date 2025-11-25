@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "17805361",
+      "username": "kill your self",
+      "found_slurs": [
+        "killyourself"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 1740594,
+          "score": 3800,
+          "username": "kill your self",
+          "level": 0,
+          "id": 17805361,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          4352
+        ],
+        "meta": {
+          "batch": "1740001to1745000"
+        }
+      }
+    }
+  ]
+}
