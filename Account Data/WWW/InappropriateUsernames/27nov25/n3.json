@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "668725964",
+      "username": "Ban_me_niggers_pussys",
+      "found_slurs": [
+        "niggers"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2356965,
+          "score": 2524,
+          "username": "Ban_me_niggers_pussys",
+          "level": 0,
+          "id": 668725964,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/70/60/70608008-4637-4b61-987e-b3e10d42f773_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/70/60/70608008-4637-4b61-987e-b3e10d42f773_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/70/60/70608008-4637-4b61-987e-b3e10d42f773_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/70/60/70608008-4637-4b61-987e-b3e10d42f773_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5893
+        ],
+        "meta": {
+          "batch": "2355001to2360000"
+        }
+      }
+    }
+  ]
+}
