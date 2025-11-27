@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "670185955",
+      "username": "anal monster",
+      "found_slurs": [
+        "anal"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 2479196,
+          "score": 2350,
+          "username": "anal monster",
+          "level": 0,
+          "id": 670185955,
+          "friend_images": {
+            "original": "https://www.kogstatic.com/gen_images/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6.png",
+            "micro": "https://www.kogstatic.com/gen_cache/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6_18x18.png",
+            "small": "https://www.kogstatic.com/gen_cache/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6_46x46.png",
+            "medium": "https://www.kogstatic.com/gen_cache/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6_64x64.png",
+            "large": "https://www.kogstatic.com/gen_cache/8b/c7/8bc7e391-d1c1-441a-a331-e12952e022f6_330x451.png"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          6198
+        ],
+        "meta": {
+          "batch": "2475001to2480000"
+        }
+      }
+    }
+  ]
+}
