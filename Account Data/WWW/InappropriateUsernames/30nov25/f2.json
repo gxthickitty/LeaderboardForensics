@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "18775147",
+      "username": "let the fuckin bich",
+      "found_slurs": [
+        "fuckin"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3206902,
+          "score": 1625,
+          "username": "let the fuckin bich",
+          "level": 0,
+          "id": 18775147,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          8018
+        ],
+        "meta": {
+          "batch": "3205001to3210000"
+        }
+      }
+    }
+  ]
+}
