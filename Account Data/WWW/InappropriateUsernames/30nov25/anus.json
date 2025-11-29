@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "18478498",
+      "username": "anus face",
+      "found_slurs": [
+        "anus"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3161679,
+          "score": 1660,
+          "username": "anus face",
+          "level": 0,
+          "id": 18478498,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7905
+        ],
+        "meta": {
+          "batch": "3160001to3165000"
+        }
+      }
+    }
+  ]
+}
