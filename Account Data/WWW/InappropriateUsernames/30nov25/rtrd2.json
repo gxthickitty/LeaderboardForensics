@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "10917661",
+      "username": "el jugador retarded",
+      "found_slurs": [
+        "retarded"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3190573,
+          "score": 1640,
+          "username": "el jugador retarded",
+          "level": 0,
+          "id": 10917661,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7977
+        ],
+        "meta": {
+          "batch": "3190001to3195000"
+        }
+      }
+    }
+  ]
+}
