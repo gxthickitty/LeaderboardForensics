@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "13878728",
+      "username": "little_bastard",
+      "found_slurs": [
+        "bastard"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3363223,
+          "score": 1515,
+          "username": "little_bastard",
+          "level": 0,
+          "id": 13878728,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          8409
+        ],
+        "meta": {
+          "batch": "3360001to3365000"
+        }
+      }
+    }
+  ]
+}
