@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "17885959",
+      "username": "a retard in KoGaMa",
+      "found_slurs": [
+        "retard"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3402165,
+          "score": 1490,
+          "username": "a retard in KoGaMa",
+          "level": 0,
+          "id": 17885959,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/ad/b4/adb48c86-080b-4719-9270-0c77141863da_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/ad/b4/adb48c86-080b-4719-9270-0c77141863da_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/ad/b4/adb48c86-080b-4719-9270-0c77141863da_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/ad/b4/adb48c86-080b-4719-9270-0c77141863da_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          8506
+        ],
+        "meta": {
+          "batch": "3400001to3405000"
+        }
+      }
+    }
+  ]
+}
