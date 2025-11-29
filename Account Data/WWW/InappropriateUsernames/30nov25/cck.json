@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "668223315",
+      "username": "Cock bro",
+      "found_slurs": [
+        "cock"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3103988,
+          "score": 1704,
+          "username": "Cock bro",
+          "level": 0,
+          "id": 668223315,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          7760
+        ],
+        "meta": {
+          "batch": "3100001to3105000"
+        }
+      }
+    }
+  ]
+}
