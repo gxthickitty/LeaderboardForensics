@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "19671031",
+      "username": "Fectakor la la vagina",
+      "found_slurs": [
+        "vagina"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3760798,
+          "score": 1280,
+          "username": "Fectakor la la vagina",
+          "level": 0,
+          "id": 19671031,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9402
+        ],
+        "meta": {
+          "batch": "3760001to3765000"
+        }
+      }
+    }
+  ]
+}
