@@ -1,0 +1,34 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "22221233",
+      "username": "Gay_.Bastard",
+      "found_slurs": [
+        "bastard"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3915062,
+          "score": 1203,
+          "username": "Gay_.Bastard",
+          "level": 0,
+          "id": 22221233,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9788
+        ],
+        "meta": {
+          "batch": "3915001to3920000"
+        }
+      }
+    }
+  ]
+}
