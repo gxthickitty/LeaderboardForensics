@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "20831435",
+      "username": "LIL_FAGGOT",
+      "found_slurs": [
+        "faggot"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4922851,
+          "score": 833,
+          "username": "LIL_FAGGOT",
+          "level": 0,
+          "id": 20831435,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12308
+        ],
+        "meta": {
+          "batch": "4920001to4925000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
