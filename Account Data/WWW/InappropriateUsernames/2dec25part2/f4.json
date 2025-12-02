@@ -1,0 +1,36 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "17340480",
+      "username": "i fucking hate u",
+      "found_slurs": [
+        "fucking",
+        "fuckinghate"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 5017293,
+          "score": 810,
+          "username": "i fucking hate u",
+          "level": 0,
+          "id": 17340480,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12544
+        ],
+        "meta": {
+          "batch": "5015001to5020000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
