@@ -1,0 +1,36 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "670378821",
+      "username": "THE SUPREME RAPIST",
+      "found_slurs": [
+        "rapist"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4589308,
+          "score": 934,
+          "username": "THE SUPREME RAPIST",
+          "level": 0,
+          "id": 670378821,
+          "friend_images": {
+            "original": "https://www.kogstatic.com/gen_images/6d/2c/6d2c29cf-12fd-46a8-a7e6-87802f4e3328.png",
+            "micro": "https://www.kogstatic.com/gen_cache/6d/2c/6d2c29cf-12fd-46a8-a7e6-87802f4e3328_18x18.png",
+            "small": "https://www.kogstatic.com/gen_cache/6d/2c/6d2c29cf-12fd-46a8-a7e6-87802f4e3328_46x46.png",
+            "medium": "https://www.kogstatic.com/gen_cache/6d/2c/6d2c29cf-12fd-46a8-a7e6-87802f4e3328_64x64.png",
+            "large": "https://www.kogstatic.com/gen_cache/6d/2c/6d2c29cf-12fd-46a8-a7e6-87802f4e3328_330x451.png"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11474
+        ],
+        "meta": {
+          "batch": "4585001to4590000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
