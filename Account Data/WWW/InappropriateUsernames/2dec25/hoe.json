@@ -1,0 +1,98 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "15239843",
+      "username": "you hoe",
+      "found_slurs": [
+        "hoe"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4103890,
+          "score": 1120,
+          "username": "you hoe",
+          "level": 0,
+          "id": 15239843,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/robot_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/robot_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/robot_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/robot_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10260
+        ],
+        "meta": {
+          "batch": "4100001to4105000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "16010740",
+      "username": "suck my dick hoe",
+      "found_slurs": [
+        "dick",
+        "hoe",
+        "suck"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4247814,
+          "score": 1060,
+          "username": "suck my dick hoe",
+          "level": 0,
+          "id": 16010740,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10620
+        ],
+        "meta": {
+          "batch": "4245001to4250000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "21039687",
+      "username": "BAD_BITCH_HOE",
+      "found_slurs": [
+        "bitch",
+        "hoe"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4512824,
+          "score": 960,
+          "username": "BAD_BITCH_HOE",
+          "level": 0,
+          "id": 21039687,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/mrchen_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11283
+        ],
+        "meta": {
+          "batch": "4510001to4515000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
