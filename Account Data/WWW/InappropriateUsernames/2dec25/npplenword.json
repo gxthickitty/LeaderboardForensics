@@ -1,0 +1,36 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "18821130",
+      "username": "pepperoni nipple nigga",
+      "found_slurs": [
+        "nigga",
+        "nipple"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4019153,
+          "score": 1155,
+          "username": "pepperoni nipple nigga",
+          "level": 0,
+          "id": 18821130,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10048
+        ],
+        "meta": {
+          "batch": "4015001to4020000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
