@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "12821476",
+      "username": "mr titty mgee",
+      "found_slurs": [
+        "titty"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4753111,
+          "score": 881,
+          "username": "mr titty mgee",
+          "level": 0,
+          "id": 12821476,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11883
+        ],
+        "meta": {
+          "batch": "4750001to4755000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
