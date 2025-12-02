@@ -1,0 +1,65 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "18040233",
+      "username": "Russian asshole",
+      "found_slurs": [
+        "asshole"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4870367,
+          "score": 850,
+          "username": "Russian asshole",
+          "level": 0,
+          "id": 18040233,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12176
+        ],
+        "meta": {
+          "batch": "4870001to4875000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "17839138",
+      "username": "KILLER ASSHOLE",
+      "found_slurs": [
+        "asshole"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4979040,
+          "score": 820,
+          "username": "KILLER ASSHOLE",
+          "level": 0,
+          "id": 17839138,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12448
+        ],
+        "meta": {
+          "batch": "4975001to4980000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
