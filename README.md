@@ -77,30 +77,6 @@ This collection functions as an organised repository for filtering numerically-t
 
 ---
 
-## Scripts
-
-
-#### **Note:**  
-> The filtering system has been refined and rewritten multiple times throughout the project’s development. While the tools aim for high reliability, **complete accuracy in detecting bot-like behaviour or inappropriate usernames cannot be guaranteed**. All results should be treated as indicators, not definitive classifications.
-
-#### **Note 2:**  
-> Only the username-based filters were published. The scripts meassuring account behaviours are and WILL remain private for security reasons.
-
-### `Scripts/Filters/seq.py`
-A specialised utility responsible for identifying and grouping accounts whose usernames are formed from pure or near-pure numeric sequences.  
-It acts as the primary classifier for entries destined for `SequentialAccs`.
-
-### `Scripts/Filters/slur.py`
-The principal filtering engine for inappropriate usernames.  
-Designed to detect prohibited phrasing, obfuscations, stylised bypasses, deliberate spacing, numeral substitution, and other methods used to disguise offensive language.
-
-### `Scripts/Filters/mainfilter.py`
-The main heuristic filter underpinning bot-pattern recognition.  
-It correlates recurring structures, prefix patterns, model purchase behaviour, and other indicators characteristic of coordinated or automated accounts.  
-This script produces the final categorisation for entries moved into `Bots`.
-
----
-
 ### `Scripts/Scrape/main.py`
 The central scraping tool responsible for collecting leaderboard data from the selected server.  
 It handles sequential pagination, local storage of retrieved pages, and ensures the continuity and reliability of the scraping process.
