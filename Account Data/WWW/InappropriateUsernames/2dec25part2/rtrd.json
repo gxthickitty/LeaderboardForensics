@@ -1,0 +1,95 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "20964388",
+      "username": "unicorn.retard",
+      "found_slurs": [
+        "retard"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4852753,
+          "score": 853,
+          "username": "unicorn.retard",
+          "level": 0,
+          "id": 20964388,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12132
+        ],
+        "meta": {
+          "batch": "4850001to4855000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "12436942",
+      "username": "this_Retard",
+      "found_slurs": [
+        "retard"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4915825,
+          "score": 837,
+          "username": "this_Retard",
+          "level": 0,
+          "id": 12436942,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12290
+        ],
+        "meta": {
+          "batch": "4915001to4920000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "668942202",
+      "username": "r3tard",
+      "found_slurs": [
+        "retard"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 5117316,
+          "score": 780,
+          "username": "r3tard",
+          "level": 0,
+          "id": 668942202,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12794
+        ],
+        "meta": {
+          "batch": "5115001to5120000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
