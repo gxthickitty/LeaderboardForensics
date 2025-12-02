@@ -1,0 +1,95 @@
+{
+  "count": 3,
+  "accounts": [
+    {
+      "user_id": "51502330",
+      "username": "anus.felczak88@gmail.com",
+      "found_slurs": [
+        "anus"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4004122,
+          "score": 1160,
+          "username": "anus.felczak88@gmail.com",
+          "level": 0,
+          "id": 51502330,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10011
+        ],
+        "meta": {
+          "batch": "4000001to4005000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "19693062",
+      "username": "1m_the_anus",
+      "found_slurs": [
+        "anus"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4121591,
+          "score": 1110,
+          "username": "1m_the_anus",
+          "level": 0,
+          "id": 19693062,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/1c/e7/1ce77b0a-8095-4f16-b6b1-ef825f00ed72_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/1c/e7/1ce77b0a-8095-4f16-b6b1-ef825f00ed72_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/1c/e7/1ce77b0a-8095-4f16-b6b1-ef825f00ed72_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/1c/e7/1ce77b0a-8095-4f16-b6b1-ef825f00ed72_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10304
+        ],
+        "meta": {
+          "batch": "4120001to4125000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "20619431",
+      "username": "Captain Anus",
+      "found_slurs": [
+        "anus"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4345566,
+          "score": 1020,
+          "username": "Captain Anus",
+          "level": 0,
+          "id": 20619431,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/kingoffire_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10864
+        ],
+        "meta": {
+          "batch": "4345001to4350000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
