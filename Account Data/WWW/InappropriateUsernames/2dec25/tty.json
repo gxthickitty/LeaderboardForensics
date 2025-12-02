@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "11932968",
+      "username": "titty 43",
+      "found_slurs": [
+        "titty"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 3935121,
+          "score": 1195,
+          "username": "titty 43",
+          "level": 0,
+          "id": 11932968,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          9838
+        ],
+        "meta": {
+          "batch": "3935001to3940000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
