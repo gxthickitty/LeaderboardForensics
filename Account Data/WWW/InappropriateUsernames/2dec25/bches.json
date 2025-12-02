@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "15409014",
+      "username": "bitches 3",
+      "found_slurs": [
+        "bitches"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4057744,
+          "score": 1140,
+          "username": "bitches 3",
+          "level": 0,
+          "id": 15409014,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          10145
+        ],
+        "meta": {
+          "batch": "4055001to4060000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
