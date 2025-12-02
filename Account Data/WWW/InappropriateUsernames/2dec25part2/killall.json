@@ -1,0 +1,65 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "50691732",
+      "username": "kill all admins",
+      "found_slurs": [
+        "killall"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4790916,
+          "score": 870,
+          "username": "kill all admins",
+          "level": 0,
+          "id": 50691732,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11978
+        ],
+        "meta": {
+          "batch": "4790001to4795000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    },
+    {
+      "user_id": "11090368",
+      "username": "I KILL ALL",
+      "found_slurs": [
+        "killall"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4843731,
+          "score": 859,
+          "username": "I KILL ALL",
+          "level": 0,
+          "id": 11090368,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12110
+        ],
+        "meta": {
+          "batch": "4840001to4845000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
