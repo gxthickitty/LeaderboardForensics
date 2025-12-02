@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "16178664",
+      "username": "go kill your self 2",
+      "found_slurs": [
+        "killyourself"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4909281,
+          "score": 840,
+          "username": "go kill your self 2",
+          "level": 0,
+          "id": 16178664,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          12274
+        ],
+        "meta": {
+          "batch": "4905001to4910000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
