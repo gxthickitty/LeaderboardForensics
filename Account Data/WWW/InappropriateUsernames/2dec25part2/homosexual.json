@@ -1,0 +1,35 @@
+{
+  "count": 1,
+  "accounts": [
+    {
+      "user_id": "667877326",
+      "username": "Un_Homosexual._",
+      "found_slurs": [
+        "homosexual"
+      ],
+      "user_data": {
+        "latest": {
+          "rank": 4658269,
+          "score": 910,
+          "username": "Un_Homosexual._",
+          "level": 0,
+          "id": 667877326,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/placeholder/blockboy_micro_18x18.jpg",
+            "small": "https://www.kogstatic.com/placeholder/blockboy_small_46x46.jpg",
+            "medium": "https://www.kogstatic.com/placeholder/blockboy_medium_64x64.jpg",
+            "large": "https://www.kogstatic.com/placeholder/blockboy_large_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          11646
+        ],
+        "meta": {
+          "batch": "4655001to4660000"
+        }
+      },
+      "Credits": "Flagging accounts has been conducted by midweststatic @ discord <3"
+    }
+  ]
+}
