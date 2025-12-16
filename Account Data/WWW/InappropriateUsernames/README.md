@@ -10,3 +10,7 @@ After December 2nd, due to the report format file type changed from `*.json` to 
  > It contains two subfolders that require going through to form a report:  
  >  [2 December 2025 I](https://github.com/midweststatic/LeaderboardForensics/tree/main/Account%20Data/WWW/InappropriateUsernames/OLDFORMAT_JSON/2dec25),  
  >  [2 December 2025 II](https://github.com/midweststatic/LeaderboardForensics/tree/main/Account%20Data/WWW/InappropriateUsernames/OLDFORMAT_JSON/2dec25part2)
+
+
+Numberss within the comit titles represent the leaderboard ranking range the scan was taken from.  
+For example ``1009174 to 3621180`` refers to everybody ranked between [1009174](https://www.kogama.com/profile/10001618) and [3621180](https://www.kogama.com/profile/954958)
