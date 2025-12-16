@@ -1,0 +1,81 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "15227412",
+      "username": "3432344",
+      "normalized_username": "3432344",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2298399,
+          "score": 2615,
+          "username": "3432344",
+          "level": 0,
+          "id": 15227412,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/00/6a/006adfe4-5c81-492b-9859-9bdb0e018564_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/00/6a/006adfe4-5c81-492b-9859-9bdb0e018564_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/00/6a/006adfe4-5c81-492b-9859-9bdb0e018564_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/00/6a/006adfe4-5c81-492b-9859-9bdb0e018564_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5746
+        ],
+        "meta": {
+          "batch": "2295001to2300000"
+        }
+      }
+    },
+    {
+      "user_id": "19429129",
+      "username": "3432342235",
+      "normalized_username": "3432342235",
+      "suspicion_score": 4,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": false,
+        "sequential_numbers": true,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2307861,
+          "score": 2600,
+          "username": "3432342235",
+          "level": 0,
+          "id": 19429129,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/panda_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/panda_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/panda_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/panda_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5770
+        ],
+        "meta": {
+          "batch": "2305001to2310000"
+        }
+      }
+    }
+  ]
+}

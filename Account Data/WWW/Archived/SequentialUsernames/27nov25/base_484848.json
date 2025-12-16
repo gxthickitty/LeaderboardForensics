@@ -1,0 +1,81 @@
+{
+  "count": 2,
+  "accounts": [
+    {
+      "user_id": "20834083",
+      "username": "48484848484848484848",
+      "normalized_username": "48484848484848484848",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2132005,
+          "score": 2900,
+          "username": "48484848484848484848",
+          "level": 0,
+          "id": 20834083,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/d8/11/d811cdbb-3945-4b6b-bf2b-753d91e68bbe_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/d8/11/d811cdbb-3945-4b6b-bf2b-753d91e68bbe_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/d8/11/d811cdbb-3945-4b6b-bf2b-753d91e68bbe_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/d8/11/d811cdbb-3945-4b6b-bf2b-753d91e68bbe_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          5331
+        ],
+        "meta": {
+          "batch": "2130001to2135000"
+        }
+      }
+    },
+    {
+      "user_id": "667622867",
+      "username": "484848484",
+      "normalized_username": "484848484",
+      "suspicion_score": 3,
+      "patterns": {
+        "ends_with_numbers": true,
+        "contains_bot_keywords": false,
+        "repeated_patterns": true,
+        "sequential_numbers": false,
+        "many_numbers": true,
+        "special_word_combos": false,
+        "generic_names": false,
+        "consecutive_duplicates": false
+      },
+      "user_data": {
+        "latest": {
+          "rank": 2399863,
+          "score": 2460,
+          "username": "484848484",
+          "level": 0,
+          "id": 667622867,
+          "friend_images": {
+            "micro": "https://www.kogstatic.com/gen_cache/avatar_images/girl_18x18.jpg",
+            "small": "https://www.kogstatic.com/gen_cache/avatar_images/girl_46x46.jpg",
+            "medium": "https://www.kogstatic.com/gen_cache/avatar_images/girl_64x64.jpg",
+            "large": "https://www.kogstatic.com/gen_cache/avatar_images/girl_330x451.jpg"
+          },
+          "is_subscriber": 0
+        },
+        "pages": [
+          6000
+        ],
+        "meta": {
+          "batch": "2395001to2400000"
+        }
+      }
+    }
+  ]
+}
