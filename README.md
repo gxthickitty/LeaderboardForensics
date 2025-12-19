@@ -202,11 +202,12 @@ REQUEST_TIMEOUT = 10s
 
 ### Moderation & Verification
 - **Ejota** - false-positive validation, reporting channel
+- **Its_flrwn** - false-positive validation, reporting channel
 
 ### Localization Contributors
 - Portuguese: <ins> Ejotas </ins>
 - Spanish: <ins> Ejotas </ins>
-- French:  <ins> its_flrwn </ins>
+- French:  <ins> Its_flrwn </ins>
 - Dutch:  <ins> Kenley193 </ins>
 - Croatian:  <ins> TunA </ins>
 - Bosnian: <ins> TunA </ins>
