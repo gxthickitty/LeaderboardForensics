@@ -266,6 +266,6 @@ The guiding approach is **collect now, analyze later**, ensuring long-term analy
 
 ---
 
-*Last updated: 16th December 2025*  
+*Last updated: 19th December 2025*  
 *Version: 2.0 (Go rewrite)*  
 *Maintainer: Simon*
