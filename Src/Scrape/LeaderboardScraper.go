@@ -90,7 +90,8 @@ func loadJSON(path string, dst any) {
 }
 
 func buildURL(base string, page int) string {
-	return fmt.Sprintf("%s/%s?count=%d&page=%d",
+	return fmt.Sprintf(
+		"%s/%s?count=%d&page=%d",
 		strings.TrimRight(base, "/"),
 		ENDPOINT,
 		COUNT,
@@ -115,7 +116,7 @@ func rankBucket(rank int) (int, int) {
 	if rank <= 0 {
 		return 0, 0
 	}
-	start := ((rank - 1) / BUCKET_SIZE) * BUCKET_SIZE + 1
+	start := ((rank-1)/BUCKET_SIZE)*BUCKET_SIZE + 1
 	return start, start + BUCKET_SIZE - 1
 }
 
@@ -151,12 +152,36 @@ func (bm *BucketManager) get(start, end int) *Bucket {
 	return b
 }
 
+func extractPages(v any) []int {
+	raw, ok := v.([]any)
+	if !ok {
+		return nil
+	}
+
+	out := make([]int, 0, len(raw))
+	for _, p := range raw {
+		switch t := p.(type) {
+		case float64:
+			out = append(out, int(t))
+		case int:
+			out = append(out, t)
+		case string:
+			if n, err := strconv.Atoi(t); err == nil {
+				out = append(out, n)
+			}
+		}
+	}
+	return out
+}
+
 func (bm *BucketManager) Update(uid string, latest map[string]any, page int) {
 	rank := 0
 	if v, ok := latest["rank"]; ok {
 		switch t := v.(type) {
 		case float64:
 			rank = int(t)
+		case int:
+			rank = t
 		case string:
 			rank, _ = strconv.Atoi(t)
 		}
@@ -165,11 +190,13 @@ func (bm *BucketManager) Update(uid string, latest map[string]any, page int) {
 	start, end := rankBucket(rank)
 	b := bm.get(start, end)
 
-	entry, _ := b.Data[uid].(map[string]any)
-	pages, _ := entry["pages"].([]any)
+	var pages []int
+	if entry, ok := b.Data[uid].(map[string]any); ok {
+		pages = extractPages(entry["pages"])
+	}
 
 	for _, p := range pages {
-		if int(p.(float64)) == page {
+		if p == page {
 			goto STORE
 		}
 	}
@@ -188,7 +215,11 @@ func (bm *BucketManager) SaveDirty() {
 		if !b.Dirty {
 			continue
 		}
-		path := filepath.Join(bm.root, fmt.Sprintf("%dto%d", key[0], key[1]), "data.json")
+		path := filepath.Join(
+			bm.root,
+			fmt.Sprintf("%dto%d", key[0], key[1]),
+			"data.json",
+		)
 		_ = atomicWrite(path, b.Data)
 		b.Dirty = false
 	}
@@ -209,7 +240,9 @@ func fetchPage(client *RetryClient, url string) ([]map[string]any, error) {
 	data, _ := raw["data"].([]any)
 	out := make([]map[string]any, 0, len(data))
 	for _, e := range data {
-		out = append(out, e.(map[string]any))
+		if m, ok := e.(map[string]any); ok {
+			out = append(out, m)
+		}
 	}
 	return out, nil
 }
@@ -221,7 +254,16 @@ func run(server string) error {
 	lastPath := filepath.Join(outdir, "last.json")
 	last := map[string]any{"page": 1}
 	loadJSON(lastPath, &last)
-	page := int(last["page"].(float64))
+
+	page := 1
+	if v, ok := last["page"]; ok {
+		switch t := v.(type) {
+		case float64:
+			page = int(t)
+		case int:
+			page = t
+		}
+	}
 
 	client := &RetryClient{
 		Client:  &http.Client{Timeout: REQUEST_TIMEOUT},
@@ -253,8 +295,8 @@ func run(server string) error {
 	}
 
 	go func() {
-		defer close(dataCh)
 		wg.Wait()
+		close(dataCh)
 	}()
 
 	ticker := time.NewTicker(SAVE_INTERVAL)
