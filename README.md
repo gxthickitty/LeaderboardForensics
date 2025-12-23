@@ -222,7 +222,7 @@ REQUEST_TIMEOUT = 10s
 | 2025-11-23 | www | Bot Account Termination | 580 |
 | 2025-11-25 | www | Inappropriate Username Account Termination | 700 |
 | 2025-12-03 | www | Inappropriate Username Account Termination | 1,400 |
-| 2025-12-03 | www | Inappropriate Username Account Termination | 85/326 |
+| 2025-12-23 | www | Inappropriate Username Account Termination | 85/326 |
 
 ---
 
